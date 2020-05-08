@@ -1,0 +1,149 @@
+,Feature,NN,VBZ,NNS,VBN,VBG,VB,VBP
+'system verifies',0,1,1,0,0,0,0,0
+'purchase',0,1,0,0,0,0,0,0
+'payments details',0,0,0,2,0,0,0,0
+'supplier confirms',0,1,1,0,0,0,0,0
+'purchase',0,1,0,0,0,0,0,0
+'system asks',0,1,1,0,0,0,0,0
+'shipment details',0,1,0,1,0,0,0,0
+'system supports paying',0,1,1,0,0,1,0,0
+'credit cards',0,1,0,1,0,0,0,0
+'customer pays',0,1,1,0,0,0,0,0
+'credit card',0,2,0,0,0,0,0,0
+'system approves',0,1,1,0,0,0,0,0
+'payment',1,1,0,0,0,0,0,0
+'contacting',0,0,0,0,0,1,0,0
+'credit card company',1,3,0,0,0,0,0,0
+'system completes recording',1,1,1,0,0,1,0,0
+'order',1,1,0,0,0,0,0,0
+'supplier',1,1,0,0,0,0,0,0
+'ship',1,0,0,0,0,0,1,0
+'products',1,0,0,1,0,0,0,0
+'customer',1,1,0,0,0,0,0,0
+'system sends',1,1,1,0,0,0,0,0
+'shipping documents',1,1,0,1,0,0,0,0
+'email',1,1,0,0,0,0,0,0
+'system finalizes',0,1,1,0,0,0,0,0
+'software order details',0,2,0,1,0,0,0,0
+'supplier ships',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'email',0,1,0,0,0,0,0,0
+'system sends',0,1,1,0,0,0,0,0
+'shipping documents',0,1,0,1,0,0,0,0
+'system supports',0,1,1,0,0,0,0,0
+'shipping options',0,1,0,1,0,0,0,0
+'customer buys',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system supports',0,1,1,0,0,0,0,0
+'mail shipping',0,2,0,0,0,0,0,0
+'system displays',0,1,1,0,0,0,0,0
+'products',0,0,0,1,0,0,0,0
+'customer buys',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system updates',0,1,1,0,0,0,0,0
+'inventory',1,1,0,0,0,0,0,0
+'system supports paying',0,1,1,0,0,1,0,0
+'gift cards',0,1,0,1,0,0,0,0
+'customer pays',0,1,1,0,0,0,0,0
+'gift card',1,2,0,0,0,0,0,0
+'system supports',0,1,1,0,0,0,0,0
+'land shipping',1,2,0,0,0,0,0,0
+'customer',0,1,0,0,0,0,0,0
+'track',0,0,0,0,0,0,1,0
+'purchase status',0,2,0,0,0,0,0,0
+'system provides details',0,1,1,1,0,0,0,0
+'product delivery status',1,3,0,0,0,0,0,0
+'system presents',0,1,1,0,0,0,0,0
+'product return page',0,3,0,0,0,0,0,0
+'customer returns',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system updates',0,1,1,0,0,0,0,0
+'inventory',0,1,0,0,0,0,0,0
+'system presents',0,1,1,0,0,0,0,0
+'product page',0,2,0,0,0,0,0,0
+'supplier enters',0,1,1,0,0,0,0,0
+'products',0,0,0,1,0,0,0,0
+'system updates',0,1,1,0,0,0,0,0
+'catalog',1,1,0,0,0,0,0,0
+'system enables customers writing reviews',0,1,1,2,0,1,0,0
+'products',0,0,0,1,0,0,0,0
+'customer reviews',1,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system sends',0,1,1,0,0,0,0,0
+'product review',0,2,0,0,0,0,0,0
+'supplier',0,1,0,0,0,0,0,0
+'supplier receives',0,1,1,0,0,0,0,0
+'products',0,0,0,1,0,0,0,0
+'enters',0,0,1,0,0,0,0,0
+'products',1,0,0,1,0,0,0,0
+'system',1,1,0,0,0,0,0,0
+'system updates',1,1,1,0,0,0,0,0
+'catalog',1,1,0,0,0,0,0,0
+'system presents',1,1,1,0,0,0,0,0
+'products list',1,1,0,1,0,0,0,0
+'customer',1,1,0,0,0,0,0,0
+'purchase',1,0,0,0,0,0,1,0
+'product',1,1,0,0,0,0,0,0
+'system updates',1,1,1,0,0,0,0,0
+'shopping cart',0,2,0,0,0,0,0,0
+'system presents',0,1,1,0,0,0,0,0
+'page',0,1,0,0,0,0,0,0
+'customer purchases',0,1,0,1,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system updates',0,1,1,0,0,0,0,0
+'inventory',0,1,0,0,0,0,0,0
+'system finalizes',0,1,1,0,0,0,0,0
+'software order details',0,2,0,1,0,0,0,0
+'supplier ships',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'email',0,1,0,0,0,0,0,0
+'system updates',0,1,1,0,0,0,0,0
+'product delivery status',0,3,0,0,0,0,0,0
+'system validates purchase details',0,2,1,1,0,0,0,0
+'supplier confirms',0,1,1,0,0,0,0,0
+'purchase',0,1,0,0,0,0,0,0
+'system clears',0,1,1,0,0,0,0,0
+'shopping cart',1,2,0,0,0,0,0,0
+'system supports paying',0,1,1,0,0,1,0,0
+'paypal',0,1,0,0,0,0,0,0
+'customer pays',0,1,1,0,0,0,0,0
+'paypal',0,1,0,0,0,0,0,0
+'system verifies',0,1,1,0,0,0,0,0
+'payment information',0,2,0,0,0,0,0,0
+'system provide tracking options',0,1,0,1,0,1,0,1
+'customer tracks',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'order status',0,2,0,0,0,0,0,0
+'system presents',0,1,1,0,0,0,0,0
+'shipment details',0,1,0,1,0,0,0,0
+'system',0,1,0,0,0,0,0,0
+'handle product return',0,2,0,0,0,0,1,0
+'customer returns',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system sends',0,1,1,0,0,0,0,0
+'review',0,1,0,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'supplier',0,1,0,0,0,0,0,0
+'system allows canceling',1,1,1,0,0,1,0,0
+'order',0,1,0,0,0,0,0,0
+'customer cancels',0,1,1,0,0,0,0,0
+'order',0,1,0,0,0,0,0,0
+'been shipped',0,0,0,0,2,0,0,0
+'system refunds',0,1,1,0,0,0,0,0
+'payment',0,1,0,0,0,0,0,0
+'system allows canceling',0,1,1,0,0,1,0,0
+'order',0,1,0,0,0,0,0,0
+'customer cancels',0,1,1,0,0,0,0,0
+'order',0,1,0,0,0,0,0,0
+'been shipped',0,0,0,0,2,0,0,0
+'system updates',0,1,1,0,0,0,0,0
+'payment',0,1,0,0,0,0,0,0
+'including',0,0,0,0,0,1,0,0
+'goods return impact',0,1,0,1,0,0,0,1
+'system',0,1,0,0,0,0,0,0
+'maintain product reviews',0,1,0,1,0,0,1,0
+'customer reviews',0,1,1,0,0,0,0,0
+'product',0,1,0,0,0,0,0,0
+'system stores',0,1,0,1,0,0,0,0
+'product review',0,2,0,0,0,0,0,0
+'product category',0,2,0,0,0,0,0,0

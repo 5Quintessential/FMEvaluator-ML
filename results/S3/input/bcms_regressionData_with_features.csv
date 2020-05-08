@@ -1,0 +1,1427 @@
+,Feature,VB,NN,VBG,VBN,VBP,VBD,NNS,VBZ
+'computer science',0,0,2,0,0,0,0,0,0
+'report requirements definition document',0,0,2,0,0,1,0,1,0
+'software product line',0,0,3,0,0,0,0,0,0
+'crash management systems',1,0,2,0,0,0,0,1,0
+'capozucca',0,0,1,0,0,0,0,0,0
+'university',0,0,1,0,0,0,0,0,0
+'luxembourg',0,0,1,0,0,0,0,0,0
+'betty cheng',0,0,2,0,0,0,0,0,0
+'state university',0,0,2,0,0,0,0,0,0
+'geri georg',0,0,2,0,0,0,0,0,0
+'colorado state university',0,0,3,0,0,0,0,0,0
+'nicolas guelfi',0,0,1,0,0,0,0,1,0
+'university',0,0,1,0,0,0,0,0,0
+'luxembourg',0,0,1,0,0,0,0,0,0
+'luxembourg paul istoan',0,0,3,0,0,0,0,0,0
+'university',0,0,1,0,0,0,0,0,0
+'luxembourg',0,0,1,0,0,0,0,0,0
+'gabriel lippmann gunter mussbacher',0,0,3,0,0,1,0,0,0
+'carleton university',0,0,2,0,0,0,0,0,0
+'canada',0,1,0,0,0,0,0,0,0
+'alfredo.capozucca',0,0,1,0,0,0,0,0,0
+'chengb',0,0,1,0,0,0,0,0,0
+'cse.msu.edu',0,0,1,0,0,0,0,0,0
+'istoan',0,0,1,0,0,0,0,0,0
+'lippmann.lu',0,0,1,0,0,0,0,0,0
+'georg',0,0,1,0,0,0,0,0,0
+'cs.colostate.edu',0,0,1,0,0,0,0,0,0
+'site.uottawa.ca june',0,0,2,0,0,0,0,0,0
+'report',0,0,1,0,0,0,0,0,0
+'computer science department colorado state university',0,0,6,0,0,0,0,0,0
+'collins',0,0,0,0,0,0,0,1,0
+'phone',0,0,1,0,0,0,0,0,0
+'http',0,0,1,0,0,0,0,0,0
+'//www.cs.colostate.edu requirements definition document',0,0,3,0,0,0,0,1,0
+'software product line',0,0,3,0,0,0,0,0,0
+'crash management systems colorado state university',0,0,4,0,0,1,0,1,0
+'report cs?11?105',0,0,2,0,0,0,0,0,0
+'capozucca1',0,0,1,0,0,0,0,0,0
+'h.c. cheng2',0,0,2,0,0,0,0,0,0
+'geri georg3',0,0,2,0,0,0,0,0,0
+'guelfi1',0,0,1,0,0,0,0,0,0
+"'paul istoan1,4'",0,0,2,0,0,0,0,0,0
+'gunter mussbacher5',0,0,1,0,0,0,1,0,0
+'research team',0,0,2,0,0,0,0,0,0
+'university',0,0,1,0,0,0,0,0,0
+'luxembourg',0,0,1,0,0,0,0,0,0
+'alfredo.capozucca',0,0,1,0,0,0,0,0,0
+'state university',0,0,2,0,0,0,0,0,0
+'lansing',0,0,1,0,0,0,0,0,0
+'michigan',0,0,1,0,0,0,0,0,0
+'chengb',0,0,1,0,0,0,0,0,0
+'cse.msu.edu',0,0,0,0,0,0,1,0,0
+'state university',0,0,2,0,0,0,0,0,0
+'georg',0,0,1,0,0,0,0,0,0
+'cs.colostate.edu',0,0,0,0,0,0,0,0,1
+'department',0,0,1,0,0,0,0,0,0
+'lippmann',0,0,1,0,0,0,0,0,0
+'istoan',0,0,1,0,0,0,0,0,0
+'lippmann.lu',0,0,0,0,0,0,0,0,1
+'systems',0,0,0,0,0,0,0,1,0
+'computer engineering',0,0,2,0,0,0,0,0,0
+'carleton university',0,0,2,0,0,0,0,0,0
+'ottawa',0,0,1,0,0,0,0,0,0
+'gunterm',0,0,1,0,0,0,0,0,0
+'site.uottawa.ca june',0,0,2,0,0,0,0,0,0
+'table',0,0,1,0,0,0,0,0,0
+'contents',0,0,0,0,0,0,0,1,0
+'introduction',0,0,1,0,0,0,0,0,0
+'scope',0,0,1,0,0,0,0,0,0
+'stakeholders',0,0,0,0,0,0,0,1,0
+'fire station coordinator',0,0,3,0,0,0,0,0,0
+'fireman',1,0,1,0,0,0,0,0,0
+'police station coordinator',1,0,3,0,0,0,0,0,0
+'police officer',1,0,1,0,0,0,0,1,0
+'victim',1,0,1,0,0,0,0,0,0
+'witness',1,0,1,0,0,0,0,0,0
+'crisis location',1,0,2,0,0,0,0,0,0
+'government agencies',1,0,1,0,0,0,0,1,0
+'communication compromiser',1,0,2,0,0,0,0,0,0
+'requirements',1,0,0,0,0,0,0,1,0
+'requirements',1,0,0,0,0,0,0,1,0
+'integrity',0,0,1,0,0,0,0,0,0
+'availability',0,0,1,0,0,0,0,0,0
+'performance',0,0,1,0,0,0,0,0,0
+'hardware',0,0,1,0,0,0,0,0,0
+'standards',0,0,0,0,0,0,0,1,0
+'variations',0,0,0,0,0,0,0,1,0
+'requirements variations',1,0,0,0,0,0,0,2,0
+'police',1,0,0,0,0,0,0,1,0
+'fire stations multiplicity',1,0,2,0,0,0,0,1,0
+'vehicles management',1,0,1,0,0,0,0,1,0
+'vehicles management communication protocol',1,0,3,0,0,0,0,1,0
+'crisis multiplicity',1,0,2,0,0,0,0,0,0
+'requirements variations',1,0,0,0,0,0,0,2,0
+'confidentiality',1,0,1,0,0,0,0,0,0
+'data communication',1,0,1,0,0,0,0,1,0
+'authentication',1,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'users',0,0,0,0,0,0,0,1,0
+'communication layer',1,0,2,0,0,0,0,0,0
+'data dictionary',0,0,1,0,0,0,0,1,0
+'glossary',0,0,1,0,0,0,0,0,0
+'acknowledgments',0,0,0,0,0,0,0,1,0
+'introduction',0,0,1,0,0,0,0,0,0
+'purpose',0,0,1,0,0,0,0,0,0
+'document',0,0,1,0,0,0,0,0,0
+'define',0,1,0,0,0,0,0,0,0
+'requirements',1,0,0,0,0,0,0,1,0
+'software product line',1,0,3,0,0,0,0,0,0
+'called bcrash-spl1',1,0,1,0,0,0,1,0,0
+'aimed',1,0,0,0,1,0,0,0,0
+'managing',1,0,0,1,0,0,0,0,0
+'crash crisis',1,0,2,0,0,0,0,0,0
+'features',1,0,0,0,0,0,0,1,0
+'variations',1,0,0,0,0,0,0,1,0
+'proposed',1,0,0,0,1,0,0,0,0
+'results',1,0,0,0,0,0,0,1,0
+'definition',0,0,1,0,0,0,0,0,0
+'focus',0,0,1,0,0,0,0,0,0
+'proposed variations',0,0,0,0,1,0,0,1,0
+'allow',0,1,0,0,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'change',0,0,1,0,0,0,0,0,0
+'variants',0,0,0,0,0,0,0,1,0
+'runtime',0,0,1,0,0,0,0,0,0
+'software product line',0,0,3,0,0,0,0,0,0
+'described',0,0,0,0,1,0,0,0,0
+'manner',0,0,1,0,0,0,0,0,0
+'specification',0,0,1,0,0,0,0,0,0
+'reference variant',0,0,2,0,0,0,0,0,0
+'referred',0,0,0,0,0,0,1,0,0
+'bcrash',0,0,1,0,0,0,0,0,0
+'provided',0,0,0,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'include',0,0,0,0,0,1,0,0,0
+'information concerning',0,0,1,1,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'applied',0,0,0,0,1,0,0,0,0
+'bcrash',0,1,0,0,0,0,0,0,0
+'variation points',0,0,1,0,0,0,0,1,0
+'implementations',0,0,0,0,0,0,0,1,0
+'introduced',0,0,0,0,1,0,0,0,0
+'serves',0,0,0,0,0,0,0,1,0
+'illustrate',0,1,0,0,0,0,0,0,0
+'advantages',0,0,0,0,0,0,0,1,0
+'disadvantages',0,0,0,0,0,0,0,1,0
+'modeling',0,0,1,0,0,0,0,0,0
+'modeling',0,0,1,0,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,0,1
+'workshop',0,0,1,0,0,0,0,0,0
+'comparing modeling approaches',0,0,0,2,0,0,0,1,0
+'held',0,0,0,0,1,0,0,0,0
+'models',0,0,0,0,0,0,0,1,0
+'workshop',0,0,1,0,0,0,0,0,0
+'bring',0,1,0,0,0,0,0,0,0
+'practitioners',0,0,0,0,0,0,0,1,0
+'modeling approaches including',0,0,0,2,0,0,0,1,0
+'approaches',0,0,0,0,0,0,0,1,0
+'discuss',0,1,0,0,0,0,0,0,0
+'evaluate',0,1,0,0,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'context',0,0,1,0,0,0,0,0,0
+'bcrash-spl',0,0,1,0,0,0,0,0,0
+'provided comparison criteria',0,0,1,0,0,0,1,1,0
+'practitioners',0,0,0,0,0,0,0,1,0
+'choose',0,1,0,0,0,0,0,0,0
+'specify',0,1,0,0,0,0,0,0,0
+'bcrash-spl',0,0,1,0,0,0,0,0,0
+'focus',0,1,0,0,0,0,0,0,0
+'bcrash variant',0,0,2,0,0,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'modeling community',0,0,2,0,0,0,0,0,0
+'invited',0,0,0,0,1,0,0,0,0
+'demonstrate',0,1,0,0,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'bcrash system',1,0,2,0,0,0,0,0,0
+'bcrash-spl',0,0,1,0,0,0,0,0,0
+'providing',0,0,0,1,0,0,0,0,0
+'basis',0,0,1,0,0,0,0,0,0
+'discussion',0,0,1,0,0,0,0,0,0
+'comparison',0,0,1,0,0,0,0,0,0
+'evaluation',0,0,1,0,0,0,0,0,0
+'bcrash-spl',0,0,1,0,0,0,0,0,0
+'variations have',0,0,0,0,0,1,0,1,0
+'modeled depending',0,0,0,1,1,0,0,0,0
+'priority',0,0,1,0,0,0,0,0,0
+'beginning',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'details',0,0,0,0,0,0,0,1,0
+'priorities',0,0,0,0,0,0,0,1,0
+'variations',0,0,0,0,0,0,0,1,0
+'approaches',0,0,0,0,0,0,0,1,0
+'requirements',0,0,0,0,0,0,0,1,0
+'design',0,0,1,0,0,0,0,0,0
+'compare',0,1,0,0,0,0,0,0,0
+'know',0,1,0,0,0,0,0,0,0
+'conditions',0,0,0,0,0,0,0,1,0
+'approaches',0,0,0,0,0,0,0,1,0
+'comparison',0,0,1,0,0,0,0,0,0
+'unify existing',0,1,0,1,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'generalize',0,1,0,0,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'method',0,0,1,0,0,0,0,0,0
+'method',0,0,1,0,0,0,0,0,0
+'spans',0,0,0,0,0,0,0,0,1
+'requirements',0,0,0,0,0,0,0,1,0
+'design',0,0,1,0,0,0,0,0,0
+'includes validation does',0,0,1,0,0,0,0,0,2
+'exist',0,0,0,0,0,1,0,0,0
+'method',0,0,1,0,0,0,0,0,0
+'work',0,1,0,0,0,0,0,0,0
+'practice',0,0,1,0,0,0,0,0,0
+'part',0,0,1,0,0,0,0,0,0
+'identifying',0,0,0,1,0,0,0,0,0
+'methodologies',0,0,0,0,0,0,0,1,0
+'evaluate',0,1,0,0,0,0,0,0,0
+'example',0,0,1,0,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'approaches',0,0,0,0,0,0,0,1,0
+'apply',0,1,0,0,0,0,0,0,0
+'criteria',0,0,0,0,0,0,0,1,0
+'approach',0,0,1,0,0,0,0,0,0
+'comparison criteria',0,0,1,0,0,0,0,1,0
+'made',1,0,0,0,1,0,0,0,0
+'workshop',1,0,1,0,0,0,0,0,0
+'workshop',1,0,1,0,0,0,0,0,0
+'held',1,0,0,0,1,0,0,0,0
+'experiences',1,0,0,0,0,0,0,1,0
+'case study crisis management system2 indicate',1,0,5,0,0,1,0,0,0
+'scope',1,0,1,0,0,0,0,0,0
+'case study leads',1,0,2,0,0,0,0,0,1
+'researchers exploring',1,0,0,1,0,0,0,1,0
+'parts',1,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'parts',0,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'modeled using',0,0,0,1,1,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'becomes',0,0,0,0,0,0,0,0,1
+'compare',0,1,0,0,0,0,0,0,0
+'approaches',0,0,0,0,0,0,0,1,0
+'hence',0,0,1,0,0,0,0,0,0
+'bcrash-spl',0,0,1,0,0,0,0,0,0
+'based',0,0,0,0,1,0,0,0,0
+'comprises',0,0,0,0,0,0,0,0,1
+'case',0,0,1,0,0,0,0,0,0
+'requirements',0,0,0,0,0,0,0,1,0
+'variations',0,0,0,0,0,0,0,1,0
+'approach chosen',0,0,1,0,1,0,0,0,0
+'requirements document',0,0,1,0,0,0,0,1,0
+'tried',0,0,0,0,0,0,1,0,0
+'terms',0,0,0,0,0,0,0,1,0
+'terminology used',0,0,1,0,1,0,0,0,0
+'structure followed',0,0,1,0,0,0,1,0,0
+'bcrash stands',0,0,1,0,0,0,0,1,0
+'barbados',1,0,1,0,0,0,0,0,0
+'country',1,0,1,0,0,0,0,0,0
+'case study',1,0,2,0,0,0,0,0,0
+'related',1,0,0,0,1,0,0,0,0
+'version',1,0,1,0,0,0,0,0,0
+'crash crisis management system',1,0,4,0,0,0,0,0,0
+'kienzle',1,0,1,0,0,0,0,0,0
+'guelfi',1,0,1,0,0,0,0,0,0
+'mustafiz',1,0,1,0,0,0,0,0,0
+'crisis management systems',1,0,2,0,0,0,0,1,0
+'case study',1,0,2,0,0,0,0,0,0
+'modeling',1,0,1,0,0,0,0,0,0
+'katz',1,0,1,0,0,0,0,0,0
+'mezini',1,0,1,0,0,0,0,0,0
+'kienzle',0,0,1,0,0,0,0,0,0
+'transactions',0,0,0,0,0,0,0,1,0
+'software development',0,0,2,0,0,0,0,0,0
+'abstraction',0,0,1,0,0,0,0,0,0
+'completeness levels chosen',0,0,1,0,1,0,0,1,0
+'supposed',0,0,0,0,1,0,0,0,0
+'reach',0,1,0,0,0,0,0,0,0
+'goal',0,0,1,0,0,0,0,0,0
+'described',0,0,0,0,1,0,0,0,0
+'suppose',0,0,0,0,0,1,0,0,0
+'execution',0,0,1,0,0,0,0,0,0
+'services',0,0,0,0,0,0,0,1,0
+'product line variant',0,0,3,0,0,0,0,0,0
+'concurrent',0,0,1,0,0,0,0,0,0
+'depend',0,1,0,0,0,0,0,0,0
+'constraints',0,0,0,0,0,0,0,1,0
+'execution order described',0,0,2,0,0,0,1,0,0
+'service definition',0,0,2,0,0,0,0,0,0
+'modeling notation',0,0,1,1,0,0,0,0,0
+'constraints',0,0,0,0,0,0,0,1,0
+'spread',0,0,0,0,1,0,0,0,0
+'descriptions3',0,0,1,0,0,0,0,0,0
+'document introduces',0,0,1,0,0,0,0,0,1
+'scope',0,0,1,0,0,0,0,0,0
+'stakeholders',0,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'sections',0,0,0,0,0,0,0,1,0
+'requirements',0,0,0,0,0,0,0,1,0
+'specified',0,0,0,0,1,0,0,0,0
+'sections',0,0,0,0,0,0,0,1,0
+'section',0,0,1,0,0,0,0,0,0
+'discusses hardware',0,0,1,0,0,0,0,1,0
+'standards',0,0,0,0,0,0,0,1,0
+'section',0,0,1,0,0,0,0,0,0
+'highlights proposed variation points',0,0,1,0,1,0,0,2,0
+'document concludes',0,0,1,0,0,0,0,0,1
+'data dictionary',0,0,2,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'scope',0,0,1,0,0,0,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'crash management system',0,0,3,0,0,0,0,0,0
+'coordinating',1,0,0,1,0,0,0,0,0
+'communication',1,0,1,0,0,0,0,0,0
+'fire station coordinator',1,0,3,0,0,0,0,0,0
+'police station coordinator',1,0,3,0,0,0,0,0,0
+'handle',1,1,0,0,0,0,0,0,0
+'crisis',1,0,1,0,0,0,0,0,0
+'manner',1,0,1,0,0,0,0,0,0
+'communication',1,0,1,0,0,0,0,0,0
+'police personnel',1,0,1,0,0,0,0,1,0
+'including',1,0,0,1,0,0,0,0,0
+'scope',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'assumption applies',0,0,1,0,0,0,0,1,0
+'fire personnel',0,0,1,0,0,0,0,1,0
+'including',0,0,0,1,0,0,0,0,0
+'information regarding',0,0,1,1,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'pertains',0,0,0,0,0,0,0,0,1
+'tasks',0,0,0,0,0,0,0,1,0
+'coordinators',0,0,0,0,0,0,0,1,0
+'updated',0,0,0,0,1,0,0,0,0
+'maintained',0,0,0,0,1,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'figure',0,0,1,0,0,0,0,0,0
+'view',0,0,1,0,0,0,0,0,0
+'environment',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'sub-systems',0,0,0,0,0,0,0,1,0
+'coordination',0,0,1,0,0,0,0,0,0
+'result',0,0,1,0,0,0,0,0,0
+'composition',0,0,1,0,0,0,0,0,0
+'software',0,0,1,0,0,0,0,0,0
+'coordination processes controlled',1,0,1,0,1,0,0,0,1
+'distributed coordinators',1,0,0,0,1,0,0,1,0
+'database',0,0,1,0,0,0,0,0,0
+'fire',0,0,1,0,0,0,0,0,0
+'police stations maintain',1,0,1,0,0,1,0,1,0
+'databases',0,0,0,0,0,0,0,1,0
+'access information',0,0,2,0,0,0,0,0,0
+'database',0,0,1,0,0,0,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'coordination process',0,0,2,0,0,0,0,0,0
+'charge',0,0,1,0,0,0,0,0,0
+'adding',0,0,0,1,0,0,0,0,0
+'updating information',0,0,1,1,0,0,0,0,0
+'database',0,0,1,0,0,0,0,0,0
+'simplicity',0,0,1,0,0,0,0,0,0
+'context',0,0,1,0,0,0,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'accident involving',0,0,1,1,0,0,0,0,0
+'tanker',0,0,1,0,0,0,0,0,0
+'highway',0,0,1,0,0,0,0,0,0
+'tanker',0,0,1,0,0,0,0,0,0
+'fire',0,0,1,0,0,0,0,0,0
+'execution',0,0,1,0,0,0,0,0,0
+'mission',0,0,1,0,0,0,0,0,0
+'rescue victims',1,0,1,0,0,0,0,1,0
+'remove obstacles',1,1,0,0,0,0,0,1,0
+'scope',0,0,1,0,0,0,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'case scenario descriptions',0,0,2,0,0,0,0,1,0
+'information',1,0,1,0,0,0,0,0,0
+'mission',1,0,1,0,0,0,0,0,0
+'required',1,0,0,0,1,0,0,0,0
+'coordinators',1,0,0,0,0,0,0,1,0
+'information includes',1,0,1,0,0,0,0,0,1
+'crisis details',1,0,1,0,0,0,0,1,0
+'route plan',1,0,2,0,0,0,0,0,0
+'defined',1,0,0,0,1,0,0,0,0
+'data dictionary',1,0,1,0,0,0,0,1,0
+'section',1,0,1,0,0,0,0,0,0
+'furthermore',0,0,1,0,0,0,0,0,0
+'version',0,0,1,0,0,0,0,0,0
+'bcrash system assumes',0,0,2,0,0,0,0,0,1
+'resources',0,0,0,0,0,0,0,1,0
+'fire trucks',1,0,1,0,0,0,0,1,0
+'fire station',1,0,2,0,0,0,0,0,0
+'police station',1,0,2,0,0,0,0,0,0
+'crisis',1,0,1,0,0,0,0,0,0
+'time',1,0,1,0,0,0,0,0,0
+'bcrash system starts operating',1,0,2,1,0,0,0,0,1
+'point',1,0,1,0,0,0,0,0,0
+'given crisis',1,0,1,0,1,0,0,0,0
+'been detected',1,0,0,0,2,0,0,0,0
+'declared',1,0,0,0,1,0,0,0,0
+'fire station',1,0,2,0,0,0,0,0,0
+'police station',1,0,2,0,0,0,0,0,0
+'coordinators',0,0,0,0,0,0,0,1,0
+'have',0,0,0,0,0,1,0,0,0
+'defined',0,0,0,0,1,0,0,0,0
+'parameters',0,0,0,0,0,0,0,1,0
+'start handling',0,1,0,1,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'emergency call',0,0,2,0,0,0,0,0,0
+'witness',0,0,1,0,0,0,0,0,0
+'notifications',0,0,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'witnesses',0,0,0,0,0,0,0,1,0
+'police station and/or fire station call',0,0,6,0,0,0,0,0,0
+'scope',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'number',0,0,1,0,0,0,0,0,0
+'policies exist governing',0,0,0,1,0,1,0,1,0
+'timing',0,0,1,0,0,0,0,0,0
+'actions',0,0,0,0,0,0,0,1,0
+'completed',0,0,0,0,1,0,0,0,0
+'number',0,0,1,0,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'deployed',0,0,0,0,1,0,0,0,0
+'types',0,0,0,0,0,0,0,1,0
+'crises',0,0,0,0,0,0,0,1,0
+'development',0,0,1,0,0,0,0,0,0
+'compliance checking',1,0,2,0,0,0,0,0,0
+'policies',0,0,0,0,0,0,0,1,0
+'scope',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'variation',0,0,1,0,0,0,0,0,0
+'system detailed',0,0,1,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'selected',0,0,0,0,1,0,0,0,0
+'design time',0,0,2,0,0,0,0,0,0
+'activated',0,0,0,0,1,0,0,0,0
+'time',0,0,1,0,0,0,0,0,0
+'stakeholders',0,0,0,0,0,0,0,1,0
+'stakeholders',0,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'detailed',0,0,0,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'description',0,0,1,0,0,0,0,0,0
+'stakeholder',0,0,1,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'stakeholder',0,0,1,0,0,0,0,0,0
+'stated',0,0,0,0,1,0,0,0,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'stakeholder',0,0,1,0,0,0,0,0,0
+'detailed',0,0,0,0,1,0,0,0,0
+'help',0,0,0,0,0,1,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'stakeholder',0,0,1,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'degree',0,0,1,0,0,0,0,0,0
+'objectives characterize',0,0,0,0,0,1,0,1,0
+'problems addressed',0,0,0,0,1,0,0,1,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'responsibilities describe',0,0,0,0,0,1,0,1,0
+'actions',0,0,0,0,0,0,0,1,0
+'expected',0,0,0,0,1,0,0,0,0
+'stakeholder',0,0,1,0,0,0,0,0,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'traced',0,0,0,0,1,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'supported',0,0,0,0,1,0,0,0,0
+'bcrash system',1,0,2,0,0,0,0,0,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'traced',0,0,0,0,1,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'scope',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'stakeholders listed',0,0,0,0,1,0,0,1,0
+'section have',0,0,1,0,0,1,0,0,0
+'interest',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'affected',0,0,0,0,1,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'subset',0,0,1,0,0,0,0,0,0
+'stakeholders',0,0,0,0,0,0,0,1,0
+'involved',1,0,0,0,1,0,0,0,0
+'case described',1,0,1,0,1,0,0,0,0
+'section',1,0,1,0,0,0,0,0,0
+'fire station coordinator',1,0,3,0,0,0,0,0,0
+'maintains control',1,0,1,0,0,0,0,1,0
+'crisis situation',1,0,2,0,0,0,0,0,0
+'communicating',1,0,0,1,0,0,0,0,0
+'police station coordinator',1,0,3,0,0,0,0,0,0
+'firemen',1,0,0,0,0,0,0,1,0
+'objectives',1,0,0,0,0,0,0,1,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'determine',0,1,0,0,0,0,0,0,0
+'fire trucks',0,0,1,0,0,0,0,1,0
+'send',0,1,0,0,0,0,0,0,0
+'communicate',0,1,0,0,0,0,0,0,0
+'introduce',0,1,0,0,0,0,0,0,0
+'keep',0,1,0,0,0,0,0,0,0
+'date regarding',0,0,1,1,0,0,0,0,0
+'nature',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'resources',0,0,0,0,0,0,0,1,0
+'handle',0,1,0,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'loss',0,0,1,0,0,0,0,0,0
+'injury',0,0,1,0,0,0,0,0,0
+'people',0,0,0,0,0,0,0,1,0
+'property',0,0,1,0,0,0,0,0,0
+'resources',0,0,0,0,0,0,0,1,0
+'crisis location',1,0,2,0,0,0,0,0,0
+'amount',0,0,1,0,0,0,0,0,0
+'time',0,0,1,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'estimation',0,0,1,0,0,0,0,0,0
+'resource needs',0,0,1,0,0,0,0,1,0
+'time',0,0,1,0,0,0,0,0,0
+'arrivals',0,0,0,0,0,0,0,1,0
+'resources',0,0,0,0,0,0,0,1,0
+'have',0,1,0,0,0,0,0,0,0
+'negotiation skills',0,0,1,0,0,0,0,1,0
+'e.g.',0,0,1,0,0,0,0,0,0
+'coordinators',0,0,0,0,0,0,0,1,0
+'have',0,1,0,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'stakeholders',0,0,0,0,0,0,0,1,0
+'maintain',0,1,0,0,0,0,0,0,0
+'feeling',1,0,1,0,0,0,0,0,0
+'control',1,0,1,0,0,0,0,0,0
+'crisis',1,0,1,0,0,0,0,0,0
+'stress level',1,0,2,0,0,0,0,0,0
+'providing',1,0,0,1,0,0,0,0,0
+'receiving crisis information',1,0,2,1,0,0,0,0,0
+'coordinators',1,0,0,0,0,0,0,1,0
+'fashion',1,0,1,0,0,0,0,0,0
+'provide',1,1,0,0,0,0,0,0,0
+'instructions',1,0,0,0,0,0,0,1,0
+'staff',0,0,1,0,0,0,0,0,0
+'propose',0,1,0,0,0,0,0,0,0
+'strategy',0,0,1,0,0,0,0,0,0
+'handling',0,0,0,1,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'reach',0,1,0,0,0,0,0,0,0
+'agreement',0,0,1,0,0,0,0,0,0
+'proceed',0,1,0,0,0,0,0,0,0
+'receive updates regarding',1,1,0,1,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'firemen',0,0,0,0,0,0,0,1,0
+'collate',0,1,0,0,0,0,0,0,0
+'distribute',0,1,0,0,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'instructions',0,0,0,0,0,0,0,1,0
+'firemen',0,0,0,0,0,0,0,1,0
+'fireman',0,0,1,0,0,0,0,0,0
+'acts',0,0,0,0,0,0,0,1,0
+'orders received',0,0,0,0,1,0,0,1,0
+'reports',0,0,0,0,0,0,0,1,0
+'information',0,0,1,0,0,0,0,0,0
+'fireman communicates',0,0,1,0,0,0,0,0,1
+'firemen',0,0,0,0,0,0,0,1,0
+'victims',0,0,0,0,0,0,0,1,0
+'witnesses',0,0,0,0,0,0,0,1,0
+'crisis location',0,0,2,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'fireman',0,0,1,0,0,0,0,0,0
+'stay',0,1,0,0,0,0,0,0,0
+'minimize injury',0,1,1,0,0,0,0,0,0
+'save',0,1,0,0,0,0,0,0,0
+'support',0,1,0,0,0,0,0,0,0
+'victim',0,0,1,0,0,0,0,0,0
+'minimize damage',1,1,1,0,0,0,0,0,0
+'property',0,0,1,0,0,0,0,0,0
+'work',0,1,0,0,0,0,0,0,0
+'team',0,0,1,0,0,0,0,0,0
+'have confidence',0,1,1,0,0,0,0,0,0
+'coordinator',0,0,1,0,0,0,0,0,0
+'instructions',0,0,0,0,0,0,0,1,0
+'keep',0,1,0,0,0,0,0,0,0
+'date regarding',0,0,1,1,0,0,0,0,0
+'crisis situation',1,0,2,0,0,0,0,0,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'fireman',0,0,1,0,0,0,0,0,0
+'receive requests',0,1,0,0,0,0,0,1,0
+'to/return',0,0,1,0,0,0,0,0,0
+'crisis location',0,0,2,0,0,0,0,0,0
+'report location status',0,1,2,0,0,0,0,0,0
+'report conditions',0,1,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'firemen',0,0,0,0,0,0,0,1,0
+'communicate',0,1,0,0,0,0,0,0,0
+'victim',0,0,1,0,0,0,0,0,0
+'witness',0,0,1,0,0,0,0,0,0
+'crisis location',0,0,2,0,0,0,0,0,0
+'police station coordinator',1,0,2,0,0,0,0,1,0
+'maintains control',1,0,1,0,0,0,0,1,0
+'crisis situation',1,0,2,0,0,0,0,0,0
+'communicating',0,0,0,1,0,0,0,0,0
+'fire station coordinator',1,0,3,0,0,0,0,0,0
+'policemen',0,0,0,0,0,0,0,1,0
+'objectives',0,0,0,0,0,0,0,1,0
+'objectives',0,0,0,0,0,0,0,1,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'performs',0,0,0,0,0,0,0,0,1
+'activities',0,0,0,0,0,0,0,1,0
+'description',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'hence applies',0,0,1,0,0,0,0,1,0
+'fire trucks',0,0,1,0,0,0,0,1,0
+'replaced',0,0,0,0,1,0,0,0,0
+'police cars',0,0,1,0,0,0,0,1,0
+'firemen',0,0,0,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'officer',0,0,1,0,0,0,0,0,0
+'police officer acts',0,0,2,0,0,0,0,0,1
+'orders received',0,0,0,0,1,0,0,1,0
+'reports',0,0,0,0,0,0,0,1,0
+'information',0,0,1,0,0,0,0,0,0
+'police officer communicates',1,0,2,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'victims',0,0,0,0,0,0,0,1,0
+'witnesses',0,0,0,0,0,0,0,1,0
+'crisis location',0,0,2,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'police officer',0,0,2,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'fireman',0,0,1,0,0,0,0,0,0
+'addition',0,0,1,0,0,0,0,0,0
+'police officer wants',0,0,2,0,0,0,0,0,1
+'order disturbed',0,0,1,0,1,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'manage traffic',1,0,2,0,0,0,0,0,0
+'people',0,0,0,0,0,0,0,1,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'police officer performs',0,0,2,0,0,0,0,0,1
+'activities',0,0,0,0,0,0,0,1,0
+'fireman',0,0,1,0,0,0,0,0,0
+'terms',0,0,0,0,0,0,0,1,0
+'communicating',0,0,0,1,0,0,0,0,0
+'coordinator',0,0,1,0,0,0,0,0,0
+'hence',0,0,1,0,0,0,0,0,0
+'description',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'applies',0,0,0,0,0,0,0,1,0
+'replaced',0,0,0,0,1,0,0,0,0
+'victim',0,0,1,0,0,0,0,0,0
+'victim',0,0,1,0,0,0,0,0,0
+'been',0,0,0,0,1,0,0,0,0
+'affected',0,0,0,0,1,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'communicate',0,1,0,0,0,0,0,0,0
+'policemen',0,0,0,0,0,0,0,1,0
+'firemen',0,0,0,0,0,0,0,1,0
+'objectives',0,0,0,0,0,0,0,1,0
+'victim',0,0,1,0,0,0,0,0,0
+'rescued',0,0,0,0,1,0,0,0,0
+'amount',0,0,1,0,0,0,0,0,0
+'time',0,0,1,0,0,0,0,0,0
+'recover',0,1,0,0,0,0,0,0,0
+'injuries',0,0,0,0,0,0,0,1,0
+'loss',0,0,1,0,0,0,0,0,0
+'amount',1,0,1,0,0,0,0,0,0
+'time',1,0,1,0,0,0,0,0,0
+'minimize stress caused',1,1,1,0,1,0,0,0,0
+'crisis',1,0,1,0,0,0,0,0,0
+'informed',1,0,0,0,1,0,0,0,0
+'crisis status',1,0,2,0,0,0,0,0,0
+'impacts',1,0,0,0,0,0,0,0,1
+'victim',1,0,1,0,0,0,0,0,0
+'know',1,1,0,0,0,0,0,0,0
+'stages',1,0,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'victim',0,0,1,0,0,0,0,0,0
+'provide',0,1,0,0,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'including information',0,0,1,1,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'identity',0,0,1,0,0,0,0,0,0
+'history',0,0,1,0,0,0,0,0,0
+'firemen',0,0,0,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'follow instructions',0,1,0,0,0,0,0,1,0
+'firemen',0,0,0,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'witness',0,0,1,0,0,0,0,0,0
+'crisis location',1,0,2,0,0,0,0,0,0
+'witness',0,0,1,0,0,0,0,0,0
+'observed',0,0,0,0,1,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'communicates',0,0,0,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'firemen',0,0,0,0,0,0,0,1,0
+'objectives',0,0,0,0,0,0,0,1,0
+'witness',0,0,1,0,0,0,0,0,0
+'provide',0,1,0,0,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'police',0,0,1,0,0,0,0,0,0
+'fire personnel',0,0,1,0,0,0,0,1,0
+'know',0,1,0,0,0,0,0,0,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'witness',0,0,1,0,0,0,0,0,0
+'provide information',0,1,1,0,0,0,0,0,0
+'firemen',0,0,0,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'follow instructions',0,1,0,0,0,0,0,1,0
+'firemen',0,0,0,0,0,0,0,1,0
+'policemen',0,0,0,0,0,0,0,1,0
+'government agencies government agencies provide funding',0,0,3,0,0,1,0,2,0
+'system',0,0,1,0,0,0,0,0,0
+'improvements',0,0,0,0,0,0,0,1,0
+'communities',0,0,0,0,0,0,0,1,0
+'living standard',0,0,1,1,0,0,0,0,0
+'deployment',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'government agency',0,0,2,0,0,0,0,0,0
+'keep',0,1,0,0,0,0,0,0,0
+'community',0,0,1,0,0,0,0,0,0
+'ensure',0,1,0,0,0,0,0,0,0
+'response times',0,0,1,0,0,0,0,1,0
+'costs',0,0,0,0,0,0,0,1,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'responsibilities',0,0,0,0,0,0,0,1,0
+'government agency',0,0,2,0,0,0,0,0,0
+'provide funding',0,1,1,0,0,0,0,0,0
+'fire',0,0,1,0,0,0,0,0,0
+'police departments',0,0,1,0,0,0,0,1,0
+'establish policies',0,1,0,0,0,0,0,1,0
+'groups',0,0,0,0,0,0,0,1,0
+'e.g.',0,0,1,0,0,0,0,0,0
+'security',0,0,1,0,0,0,0,0,0
+'response time expectations',0,0,2,0,0,0,0,1,0
+'communication compromiser',1,0,2,0,0,0,0,0,0
+'communication compromiser wants',0,0,2,0,0,0,0,0,1
+'achieve',0,1,0,0,0,0,0,0,0
+'gain',0,0,1,0,0,0,0,0,0
+'accessing',0,0,0,1,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'disrupting',0,0,0,1,0,0,0,0,0
+'handling',0,0,1,0,0,0,0,0,0
+'crisis situation',0,0,2,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'communication compromiser',0,0,2,0,0,0,0,0,0
+'disrupt',0,1,0,0,0,0,0,0,0
+'response',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'gain',0,0,1,0,0,0,0,0,0
+'order',0,0,1,0,0,0,0,0,0
+'achieve',0,1,0,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'actions',0,0,0,0,0,0,0,1,0
+'communication compromiser',0,0,2,0,0,0,0,0,0
+'gain access',0,1,1,0,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'change',0,1,0,0,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'disrupt communications',1,1,0,0,0,0,0,1,0
+'requirements',0,0,0,0,0,0,0,1,0
+'section details',0,0,1,0,0,0,0,1,0
+'case',0,0,1,0,0,0,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'items',0,0,0,0,0,0,0,1,0
+'defined',0,0,0,0,1,0,0,0,0
+'data dictionary',0,0,1,0,0,0,0,1,0
+'section',0,0,1,0,0,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'communicate',0,0,1,0,0,0,0,0,0
+'coordinator actors',0,0,1,0,0,0,0,1,0
+'goal',0,0,1,0,0,0,0,0,0
+'resolve',0,1,0,0,0,0,0,0,0
+'crisis situation',1,0,2,0,0,0,0,0,0
+'cooperation',0,0,1,0,0,0,0,0,0
+'coordinator',0,0,1,0,0,0,0,0,0
+'coordination',0,0,1,0,0,0,0,0,0
+'required',0,0,0,0,1,0,0,0,0
+'police',0,0,1,0,0,0,0,0,0
+'enable fire personnel',0,1,1,0,0,0,0,1,0
+'reach',0,1,0,0,0,0,0,0,0
+'crisis location',0,0,2,0,0,0,0,0,0
+'escorting',0,0,0,1,0,0,0,0,0
+'fire trucks',0,0,1,0,0,0,0,1,0
+'creating roadblocks',0,0,0,1,0,0,0,1,0
+'precondition',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'have',0,0,0,0,0,1,0,0,0
+'established contact',1,0,1,0,1,0,0,0,0
+'scenarios',1,0,0,0,0,0,0,1,0
+'establish communication',1,1,1,0,0,0,0,0,0
+'identification',1,0,1,0,0,0,0,0,0
+'coordinators',1,0,0,0,0,0,0,1,0
+'exchange crisis details',1,0,2,0,0,0,0,1,0
+'develop',1,1,0,0,0,0,0,0,0
+'route plan',1,0,2,0,0,0,0,0,0
+'fashion',1,0,1,0,0,0,0,0,0
+'number',1,0,1,0,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'deployed',0,0,0,0,1,0,0,0,0
+'locations',0,0,0,0,0,0,0,1,0
+'etas',0,0,0,0,0,0,0,1,0
+'state',0,0,1,0,0,0,0,0,0
+'number',0,0,1,0,0,0,0,0,0
+'fire trucks',0,0,1,0,0,0,0,1,0
+'police vehicle',0,0,1,0,0,0,0,1,0
+'proposes',0,0,0,0,0,0,0,0,1
+'route',1,0,1,0,0,0,0,0,0
+'fire trucks',1,0,1,0,0,0,0,1,0
+'route',1,0,1,0,0,0,0,0,0
+'police vehicles',1,0,1,0,0,0,0,1,0
+'reach deploy',1,1,1,0,0,0,0,0,0
+'crisis site',1,0,2,0,0,0,0,0,0
+'agrees',1,0,0,0,0,0,0,1,0
+'route',1,1,0,0,0,0,0,0,0
+'communicate',1,0,1,0,0,0,0,0,0
+'vehicles have been dispatched according',1,0,0,1,2,1,0,1,0
+'plan',0,0,1,0,0,0,0,0,0
+'vehicle',0,0,1,0,0,0,0,0,0
+'communicate',0,0,1,0,0,0,0,0,0
+'arrival',0,0,1,0,0,0,0,0,0
+'vehicle',0,0,1,0,0,0,0,0,0
+'targeted locations',0,0,0,0,1,0,0,1,0
+'communicate',0,0,1,0,0,0,0,0,0
+'completion',0,0,1,0,0,0,0,0,0
+'vehicle',0,0,1,0,0,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'agree',0,0,1,0,0,0,0,0,0
+'close',0,1,0,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'scenarios',0,0,0,0,0,0,0,1,0
+'step',0,0,1,0,0,0,0,0,0
+'duration',0,0,1,0,0,0,0,0,0
+'negotiation exceeds',0,0,1,0,0,0,0,0,1
+'limit',0,0,1,0,0,0,0,0,0
+'timeout',0,0,1,0,0,0,0,0,0
+'recorded',0,0,0,0,1,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'alerted',0,0,0,0,1,0,0,0,0
+'timeout',0,0,1,0,0,0,0,0,0
+'occurred',0,0,0,0,1,0,0,0,0
+'completing',0,0,0,1,0,0,0,0,0
+'negotiation',0,0,1,0,0,0,0,0,0
+'allowed',0,0,0,0,1,0,0,0,0
+'continue',0,1,0,0,0,0,0,0,0
+'sub-step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'timeout occurred',0,0,1,0,0,0,1,0,0
+'parallel',0,0,1,0,0,0,0,0,0
+'report',0,0,1,0,0,0,0,0,0
+'reason',0,0,1,0,0,0,0,0,0
+'timeout',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'disagrees',0,0,0,0,0,0,0,0,1
+'proposed route',0,0,1,0,1,0,0,0,0
+'removes',0,0,0,0,0,0,0,0,1
+'proposed route',0,0,1,0,1,0,0,0,0
+'routes',0,0,0,0,0,0,0,1,0
+'continue',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'route left',0,0,1,0,0,0,1,0,0
+'proposed',0,0,0,0,1,0,0,0,0
+'informs',0,0,0,0,0,0,0,0,1
+'route',0,0,1,0,0,0,0,0,0
+'coordinated',0,0,0,0,1,0,0,0,0
+'updates',0,0,0,0,0,0,0,1,0
+'vehicle locations',1,0,1,0,0,0,0,1,0
+'crisis details',0,0,1,0,0,0,0,1,0
+'exchanged',0,0,0,0,1,0,0,0,0
+'continue',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'police',0,0,1,0,0,0,0,0,0
+'truck does',0,0,1,0,0,0,0,0,1
+'reach',0,1,0,0,0,0,0,0,0
+'destination',0,0,1,0,0,0,0,0,0
+'vehicle break',0,0,1,0,0,1,0,0,0
+'psc/fsc informs',0,0,1,0,0,0,0,0,1
+'coordinator',0,0,1,0,0,0,0,0,0
+'replacement vehicle',0,0,2,0,0,0,0,0,0
+'continue',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'police',0,0,1,0,0,0,0,0,0
+'truck does',0,0,1,0,0,0,0,0,1
+'reach',0,1,0,0,0,0,0,0,0
+'destination',0,0,1,0,0,0,0,0,0
+'traffic',0,0,1,0,0,0,0,0,0
+'blocked routes',0,0,0,0,1,0,0,1,0
+'continue',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'expected',0,0,0,0,1,0,0,0,0
+'continue',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'expected',0,0,0,0,1,0,0,0,0
+'vehicles/fire trucks',0,0,1,0,0,0,0,1,0
+'continue',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'psc/fsc informs',0,0,1,0,0,0,0,0,1
+'coordinator',0,0,1,0,0,0,0,0,0
+'recall',0,0,1,0,0,0,0,0,0
+'police m.a1',0,0,1,0,0,0,0,1,0
+'continue',0,0,0,0,0,1,0,0,0
+'address',0,1,0,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'coordinate',0,1,0,0,0,0,0,0,0
+'personnel',0,0,0,0,0,0,0,1,0
+'personnel have reached',0,0,0,0,1,1,0,1,0
+'crisis site',0,0,2,0,0,0,0,0,0
+'resolution',0,0,1,0,0,0,0,0,0
+'scope',0,0,1,0,0,0,0,0,0
+'bcrash',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'been restored',0,0,0,0,2,0,0,0,0
+'period',0,0,1,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'been resolved',0,0,0,0,2,0,0,0,0
+'objectives',0,0,0,0,0,0,0,1,0
+'vehicles have been reached',0,0,0,0,2,1,0,1,0
+'continue',0,1,0,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'been established',0,0,0,0,2,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'been reached',0,0,0,0,2,0,0,0,0
+'continue',0,1,0,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'route agreement',0,0,2,0,0,0,0,0,0
+'been reached',0,0,0,0,2,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'inclusive',0,0,1,0,0,0,0,0,0
+'exchange information',0,0,2,0,0,0,0,0,0
+'routes established',0,0,0,0,1,0,0,1,0
+'police',0,0,1,0,0,0,0,0,0
+'fire',0,0,1,0,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'status',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'vehicle continue',0,0,1,0,0,1,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'depending',0,0,0,1,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'vehicle',0,0,1,0,0,0,0,0,0
+'route agreement',0,0,2,0,0,0,0,0,0
+'been reached',0,0,0,0,2,0,0,0,0
+'time limit',0,0,2,0,0,0,0,0,0
+'route negotiation',0,0,2,0,0,0,0,0,0
+'expired',0,0,0,0,1,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'inclusive',0,0,1,0,0,0,0,0,0
+'continue',0,1,0,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'route agreement',0,0,2,0,0,0,0,0,0
+'been reached',0,0,0,0,2,0,0,0,0
+'time limit',0,0,2,0,0,0,0,0,0
+'route',0,0,1,0,0,0,0,0,0
+'expired',0,0,0,0,1,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'inclusive',0,0,1,0,0,0,0,0,0
+'exchange information',0,0,2,0,0,0,0,0,0
+'routes established',0,0,0,0,1,0,0,1,0
+'police',0,0,1,0,0,0,0,0,0
+'fire',0,0,1,0,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'status',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'vehicle continue',0,0,1,0,0,1,0,0,0
+'step',0,0,1,0,0,0,0,0,0
+'depending',0,0,0,1,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'vehicle',0,0,1,0,0,0,0,0,0
+'requirements',0,0,0,0,0,0,0,1,0
+'section briefly discusses',0,0,2,0,0,0,0,0,1
+'requirements',0,0,0,0,0,0,0,1,0
+'items',0,0,0,0,0,0,0,1,0
+'defined',0,0,0,0,1,0,0,0,0
+'data dictionary',0,0,1,0,0,0,0,1,0
+'section',0,0,1,0,0,0,0,0,0
+'integrity',1,0,1,0,0,0,0,0,0
+'system',1,0,1,0,0,0,0,0,0
+'ensure',1,1,0,0,0,0,0,0,0
+'integrity',1,0,1,0,0,0,0,0,0
+'communication',1,0,1,0,0,0,0,0,0
+'coordinators regarding crisis location',1,0,2,1,0,0,0,1,0
+'vehicle number',1,0,2,0,0,0,0,0,0
+'vehicle location',1,0,2,0,0,0,0,0,0
+'preserved',1,0,0,0,1,0,0,0,0
+'time',1,0,1,0,0,0,0,0,0
+'systems',0,0,0,0,0,0,0,1,0
+'ensure',0,1,0,0,0,0,0,0,0
+'integrity',0,0,1,0,0,0,0,0,0
+'data transmitted',0,0,0,0,1,0,0,1,0
+'coordinators',0,0,0,0,0,0,0,1,0
+'preserved',0,0,0,0,1,0,0,0,0
+'time',0,0,1,0,0,0,0,0,0
+'availability',1,0,1,0,0,0,0,0,0
+'crisis details',1,0,1,0,0,0,0,1,0
+'route plan',1,0,2,0,0,0,0,0,0
+'fire station',1,0,2,0,0,0,0,0,0
+'police station',1,0,2,0,0,0,0,0,0
+'information related',0,0,1,0,1,0,0,0,0
+'identification',0,0,1,0,0,0,0,0,0
+'coordinators',0,0,0,0,0,0,0,1,0
+'exception',0,0,1,0,0,0,0,0,0
+'total',0,0,1,0,0,0,0,0,0
+'minutes',0,0,0,0,0,0,0,1,0
+'time period',0,0,2,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'crisis details',0,0,1,0,0,0,0,1,0
+'route plan',0,0,2,0,0,0,0,0,0
+'fire station',0,0,2,0,0,0,0,0,0
+'police station',0,0,2,0,0,0,0,0,0
+'exception',0,0,1,0,0,0,0,0,0
+'total',0,0,1,0,0,0,0,0,0
+'minutes',0,0,0,0,0,0,0,1,0
+'hours',0,0,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'performance',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'respond',0,1,0,0,0,0,0,0,0
+'user requests',1,1,0,0,0,0,0,1,0
+'seconds',0,0,0,0,0,0,0,1,0
+'time',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'respond',0,1,0,0,0,0,0,0,0
+'user requests',1,1,0,0,0,0,0,1,0
+'seconds',0,0,0,0,0,0,0,1,0
+'time',0,0,1,0,0,0,0,0,0
+'hardware',0,0,1,0,0,0,0,0,0
+'standards',0,0,0,0,0,0,0,1,0
+'computer',0,0,1,0,0,0,0,0,0
+'connection',0,0,1,0,0,0,0,0,0
+'link',0,0,1,0,0,0,0,0,0
+'communicate',0,1,0,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'https internet protocol',1,0,3,0,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'purpose',0,0,1,0,0,0,0,0,0
+'document',0,0,1,0,0,0,0,0,0
+'define',0,1,0,0,0,0,0,0,0
+'requirements',0,0,0,0,0,0,0,1,0
+'bcrash-spl',0,0,1,0,0,0,0,0,0
+'approach chosen',0,0,2,0,0,0,0,0,0
+'describing',0,0,0,1,0,0,0,0,0
+'define',0,1,0,0,0,0,0,0,0
+'detail',0,1,0,0,0,0,0,0,0
+'variations points',0,0,0,0,0,0,0,2,0
+'applied',0,0,0,0,1,0,0,0,0
+'reference variant',0,0,2,0,0,0,0,0,0
+'bcrash',0,0,1,0,0,0,0,0,0
+'described',0,0,0,0,1,0,0,0,0
+'sections',0,0,0,0,0,0,0,1,0
+'desired variations',0,0,0,0,1,0,0,1,0
+'proposed',0,0,0,0,1,0,0,0,0
+'result',0,0,1,0,0,0,0,0,0
+'definition',0,0,1,0,0,0,0,0,0
+'focus',0,0,1,0,0,0,0,0,0
+'allow',0,1,0,0,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'change',0,0,1,0,0,0,0,0,0
+'variants',0,0,0,0,0,0,0,1,0
+'runtime',0,0,1,0,0,0,0,0,0
+'understand',0,1,0,0,0,0,0,0,0
+'variants',0,0,0,0,0,0,0,1,0
+'variant',0,0,1,0,0,0,0,0,0
+'example',0,0,1,0,0,0,0,0,0
+'software having',0,0,1,1,0,0,0,0,0
+'configuration modes',1,0,1,0,0,0,0,1,0
+'changed',0,0,0,0,1,0,0,0,0
+'variant',0,0,1,0,0,0,0,0,0
+'implementation',0,0,1,0,0,0,0,0,0
+'framework',0,0,1,0,0,0,0,0,0
+'derivation capability implemented using configuration means',0,0,3,1,1,0,0,1,0
+'variations proposed',0,0,0,0,1,0,0,1,0
+'structured',0,0,0,0,1,0,0,0,0
+'categories',0,0,0,0,0,0,0,1,0
+'functional',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'functional',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'furthermore',0,0,1,0,0,0,0,0,0
+'variation',0,0,1,0,0,0,0,0,0
+'priorities',0,0,0,0,0,0,0,1,0
+'defined',0,0,0,0,1,0,0,0,0
+'requirements models',0,0,0,0,0,0,0,2,0
+'design models',0,0,1,0,0,0,0,1,0
+'priority',0,0,1,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'variation',0,0,1,0,0,0,0,0,0
+'part',0,0,1,0,0,0,0,0,0
+'model',0,0,1,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'ordering',0,0,1,0,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'specified',0,0,0,0,1,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'variation',0,0,1,0,0,0,0,0,0
+'number',0,0,1,0,0,0,0,0,0
+'part',0,0,1,0,0,0,0,0,0
+'model',0,0,1,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'number',0,0,1,0,0,0,0,0,0
+'part',0,0,1,0,0,0,0,0,0
+'model',0,0,1,0,0,0,0,0,0
+'priorities',0,0,0,0,0,0,0,1,0
+'variations',0,0,0,0,0,0,0,1,0
+'numbers provided',0,0,0,0,1,0,0,1,0
+'section',0,0,1,0,0,0,0,0,0
+'requirements',0,0,0,0,0,0,0,1,0
+'course',0,0,1,0,0,0,0,0,0
+'being',0,0,0,1,0,0,0,0,0
+'based',0,0,0,0,1,0,0,0,0
+'studies',0,0,0,0,0,0,0,1,0
+'request',0,1,0,0,0,0,0,0,0
+'coverage',0,0,1,0,0,0,0,0,0
+'type',0,0,1,0,0,0,0,0,0
+'requirement',1,0,1,0,0,0,0,0,0
+'variation police',1,0,2,0,0,0,0,0,0
+'fire stations multiplicity',1,0,2,0,0,0,0,1,0
+'have',1,1,0,0,0,0,0,0,0
+'have vehicles management vehicles management',1,1,2,0,0,0,0,2,0
+'have communication protocol crisis multiplicity confidentiality',1,1,5,0,0,0,0,0,0
+'data communication authentication',1,0,2,0,0,0,0,1,0
+'system',1,0,1,0,0,0,0,0,0
+'users communication layer',1,0,1,0,0,1,0,1,0
+'have',1,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have requirements',0,1,0,0,0,0,0,1,0
+'design priority',0,0,2,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'requirements variations',0,0,0,0,0,0,0,2,0
+'police',0,0,0,0,0,0,0,1,0
+'fire stations multiplicity variation point',0,0,4,0,0,0,0,1,0
+'multiplicity',0,0,1,0,0,0,0,0,0
+'police stations',0,0,1,0,0,0,0,1,0
+'fire stations',0,0,1,0,0,0,0,1,0
+'variations',0,0,0,0,0,0,0,1,0
+'constraints',0,0,0,0,0,0,0,1,0
+'variants comment',0,0,1,0,0,0,0,1,0
+'requirement document',0,0,2,0,0,0,0,0,0
+'situation',0,0,1,0,0,0,0,0,0
+'described',0,0,0,0,1,0,0,0,0
+'based',0,0,0,0,1,0,0,0,0
+'performance and/or budget constraints',0,0,3,0,0,0,0,1,0
+'changes',0,0,0,0,0,0,0,1,0
+'policies',0,0,0,0,0,0,0,1,0
+'fire station',0,0,2,0,0,0,0,0,0
+'police station management',0,0,3,0,0,0,0,0,0
+'restructured',0,0,0,0,1,0,0,0,0
+'leading',0,0,0,1,0,0,0,0,0
+'psc/fsc',0,0,1,0,0,0,0,0,0
+'case',0,0,1,0,0,0,0,0,0
+'coordinator',0,0,1,0,0,0,0,0,0
+'required',0,0,0,0,1,0,0,0,0
+'change',0,1,0,0,0,0,0,0,0
+'duration',0,0,1,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'vehicles management introduction',1,0,2,0,0,0,0,1,0
+'dispatching service',0,0,1,1,0,0,0,0,0
+'provide',0,1,0,0,0,0,0,0,0
+'ability',0,0,1,0,0,0,0,0,0
+'send',0,1,0,0,0,0,0,0,0
+'receive messages',0,1,0,0,0,0,0,1,0
+'police vehicles',0,0,1,0,0,0,0,1,0
+'fire trucks',0,0,1,0,0,0,0,1,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'variation point',0,0,2,0,0,0,0,0,0
+'vehicles management variations',1,0,1,0,0,0,0,2,0
+'send',0,1,0,0,0,0,0,0,0
+'receive messages',0,1,0,0,0,0,0,1,0
+'police vehicles',0,0,1,0,0,0,0,1,0
+'citizen',0,1,0,0,0,0,0,0,0
+'send',0,1,0,0,0,0,0,0,0
+'receive messages',0,1,0,0,0,0,0,1,0
+'police vehicles',0,0,1,0,0,0,0,1,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'send',0,1,0,0,0,0,0,0,0
+'receive messages',0,1,0,0,0,0,0,1,0
+'fire station trucks',0,0,2,0,0,0,0,1,0
+'send routing information',0,1,1,1,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'receive notification',0,1,1,0,0,0,0,0,0
+'accidents',0,0,0,0,0,0,0,1,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'constraints',0,0,0,0,0,0,0,1,0
+'variant',0,0,1,0,0,0,0,0,0
+'variants',0,0,0,0,0,0,0,1,0
+'implies',0,0,0,0,0,0,0,1,0
+'includes',0,0,0,0,0,0,0,0,1
+'comment',0,0,1,0,0,0,0,0,0
+'variation point',0,0,2,0,0,0,0,0,0
+'impact',0,1,0,0,0,0,0,0,0
+'steps',0,0,0,0,0,0,0,1,0
+'case described',0,0,1,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'vehicles management communication protocol',1,0,3,0,0,0,0,1,0
+'case',0,0,1,0,0,0,0,0,0
+'system offers',0,0,1,0,0,0,0,0,1
+'functionality',0,0,1,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'psc/fsc',1,0,1,0,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'infrastructure',0,0,1,0,0,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'fulfill',0,1,0,0,0,0,0,0,0
+'requirements',0,0,0,0,0,0,0,1,0
+'variation point',0,0,2,0,0,0,0,0,0
+'vehicle communication protocol variations',1,0,3,0,0,0,0,1,0
+'messaging infrastructure uses soap',1,0,3,0,0,0,0,0,1
+'internet',0,0,1,0,0,0,0,0,0
+'messaging infrastructure uses',0,0,2,0,0,0,0,0,1
+'security mechanism',0,0,2,0,0,0,0,0,0
+'constraints',0,0,0,0,0,0,0,1,0
+'variants',0,0,0,0,0,0,0,1,0
+'variation point requires variants',0,0,2,0,0,0,0,1,1
+'variation point',0,0,2,0,0,0,0,0,0
+'comment',0,0,1,0,0,0,0,0,0
+'variation point impacts',0,0,2,0,0,0,0,0,1
+'steps',0,0,0,0,0,0,0,1,0
+'case',0,0,1,0,0,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'variation point',0,0,2,0,0,0,0,0,0
+'crisis multiplicity',0,0,2,0,0,0,0,0,0
+'document',0,0,1,0,0,0,0,0,0
+'assume',0,0,0,0,0,1,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'handle',0,1,0,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'time',0,0,1,0,0,0,0,0,0
+'crisis management systems',1,0,2,0,0,0,0,1,0
+'handle',0,1,0,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'time',1,0,1,0,0,0,0,0,0
+'domains',1,0,0,0,0,0,0,1,0
+'expressed',1,0,0,0,1,0,0,0,0
+'variation point',1,0,2,0,0,0,0,0,0
+'variation point',1,0,2,0,0,0,0,0,0
+'crisis multiplicity variations',1,0,2,0,0,0,0,1,0
+'crisis',1,0,1,0,0,0,0,0,0
+'crisis constraints',1,0,1,0,0,0,0,1,0
+'variants comment',1,0,1,0,0,0,0,1,0
+'multi crisis system needs',1,0,3,0,0,0,0,0,1
+'integrate',1,1,0,0,0,0,0,0,0
+'needed',1,0,0,0,1,0,0,0,0
+'crisis identification',1,0,2,0,0,0,0,0,0
+'route vehicles',1,1,0,0,0,0,0,1,0
+'crisis location',1,0,2,0,0,0,0,0,0
+'crisis location',1,0,2,0,0,0,0,0,0
+'crisis',1,0,1,0,0,0,0,0,0
+'crisis needs',1,0,1,0,0,0,0,0,1
+'identified',1,0,0,0,1,0,0,0,0
+'data',1,0,0,0,0,0,0,1,0
+'location',1,0,1,0,0,0,0,0,0
+'type',1,0,1,0,0,0,0,0,0
+'status',0,0,1,0,0,0,0,0,0
+'system needs',0,0,1,0,0,0,0,0,1
+'manage',0,1,0,0,0,0,0,0,0
+'keep track',0,1,1,0,0,0,0,0,0
+'information',0,0,1,0,0,0,0,0,0
+'scenario described',0,0,1,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'applies',0,0,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'manage',0,1,0,0,0,0,0,0,0
+'execution',0,0,1,0,0,0,0,0,0
+'scenarios',0,0,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'parallel',0,0,1,0,0,0,0,0,0
+'requirements variations',0,0,0,0,0,0,0,2,0
+'confidentiality',0,0,1,0,0,0,0,0,0
+'data communication variation point',1,0,3,0,0,0,0,1,0
+'confidentiality',0,0,1,0,0,0,0,0,0
+'data communication variations',0,0,1,0,0,0,0,2,0
+'encrypted communications',1,0,0,0,0,0,1,1,0
+'communications constraints',0,0,0,0,0,0,0,2,0
+'variants comment',0,0,1,0,0,0,0,1,0
+'type',0,0,1,0,0,0,0,0,0
+'variation impacts',0,0,1,0,0,0,0,0,1
+'functioning',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'places',0,0,0,0,0,0,0,1,0
+'applies',0,0,0,0,0,0,0,0,1
+'time',0,0,1,0,0,0,0,0,0
+'data communication',0,0,2,0,0,0,0,0,0
+'actors',0,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'example',0,0,1,0,0,0,0,0,0
+'case described',0,0,1,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'variation points impacts',0,0,1,0,0,0,0,1,1
+'authentication',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'users variation point',0,0,1,0,0,1,0,1,0
+'authentication',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'users variations',0,0,0,0,0,0,0,2,0
+'password based',0,0,1,0,1,0,0,0,0
+'certificate based',0,0,1,0,1,0,0,0,0
+'biometrics based',0,0,0,0,1,0,0,1,0
+'time password',0,0,2,0,0,0,0,0,0
+'secured',0,0,0,0,1,0,0,0,0
+'challenge response',1,0,2,0,0,0,0,0,0
+'authorization/kerberos',1,0,1,0,0,0,0,0,0
+'constraints',0,0,0,0,0,0,0,1,0
+'variant',0,0,1,0,0,0,0,0,0
+'include',0,1,0,0,0,0,0,0,0
+'combination',0,0,1,0,0,0,0,0,0
+'variations concerning',0,0,0,1,0,0,0,1,0
+'authentication',0,0,1,0,0,0,0,0,0
+'users',0,0,0,0,0,0,0,1,0
+'comment',0,0,1,0,0,0,0,0,0
+'scenario described',0,0,1,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'authentication',0,0,1,0,0,0,0,0,0
+'takes place',0,0,1,0,0,0,0,0,1
+'step',0,0,1,0,0,0,0,0,0
+'authentication',0,0,1,0,0,0,0,0,0
+'required',0,0,0,0,1,0,0,0,0
+'places',0,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'scenario',0,0,1,0,0,0,0,0,0
+'communication layer variation point',0,0,4,0,0,0,0,0,0
+'communication protocol used',1,0,2,0,1,0,0,0,0
+'communication',0,0,1,0,0,0,0,0,0
+'actors',0,0,0,0,0,0,0,1,0
+'system',0,0,1,0,0,0,0,0,0
+'variations',0,0,0,0,0,0,0,1,0
+'communication protocol',1,0,2,0,0,0,0,0,0
+'used',0,0,0,0,1,0,0,0,0
+'network',0,0,1,0,0,0,0,0,0
+'soap constraints',0,0,1,0,0,0,0,1,0
+'variant',0,0,1,0,0,0,0,0,0
+'variants',0,0,0,0,0,0,0,1,0
+'variants',0,0,0,0,0,0,0,1,0
+'co-exist',0,1,0,0,0,0,0,0,0
+'variant',0,0,1,0,0,0,0,0,0
+'applied',0,0,0,0,1,0,0,0,0
+'actors',0,0,0,0,0,0,0,1,0
+'actor',0,0,1,0,0,0,0,0,0
+'comment',0,0,1,0,0,0,0,0,0
+'scenario described',0,0,1,0,1,0,0,0,0
+'section',0,0,1,0,0,0,0,0,0
+'corresponds',0,0,0,0,0,0,0,1,0
+'variation',0,0,1,0,0,0,0,0,0
+'chosen communication layer',0,0,3,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'impact',0,0,1,0,0,0,0,0,0
+'analysis phase',0,0,2,0,0,0,0,0,0
+'bcrash system',0,0,2,0,0,0,0,0,0
+'have',0,1,0,0,0,0,0,0,0
+'impact',0,0,1,0,0,0,0,0,0
+'design',0,0,1,0,0,0,0,0,0
+'system',0,0,1,0,0,0,0,0,0
+'data',0,0,0,0,0,0,0,1,0
+'crisis details',0,0,1,0,0,0,0,1,0
+'location',0,0,1,0,0,0,0,0,0
+'station',0,0,1,0,0,0,0,0,0
+'enroutetolocation',0,0,1,0,0,0,0,0,0
+'atlocation',0,0,1,0,0,0,0,0,0
+'enroutereturn',0,0,1,0,0,0,0,0,0
+'police vehicle number',0,0,3,0,0,0,0,0,0
+'fire trucks route',0,0,2,0,0,0,0,1,0
+'path',0,0,1,0,0,0,0,0,0
+'reach',0,1,0,0,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'police vehicle',0,0,2,0,0,0,0,0,0
+'fire truck',0,0,2,0,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'fire truck',0,0,2,0,0,0,0,0,0
+'location',0,0,1,0,0,0,0,0,0
+'time status',0,0,2,0,0,0,0,0,0
+'closed',0,0,0,0,0,0,1,0,0
+'description route plan',1,0,3,0,0,0,0,0,0
+'crisis',0,0,1,0,0,0,0,0,0
+'number',0,0,1,0,0,0,0,0,0
+'vehicles',0,0,0,0,0,0,0,1,0
+'crisis',0,0,1,0,0,0,0,0,0
+'time date reason',0,0,3,0,0,0,0,0,0
+'reason',0,0,1,0,0,0,0,0,0
+'term',0,0,1,0,0,0,0,0,0
+'definition',0,0,1,0,0,0,0,0,0
+'modeling',0,0,0,1,0,0,0,0,0
+'name',0,0,1,0,0,0,0,0,0
+'reference',0,0,1,0,0,0,0,0,0
+'represents',0,0,0,0,0,0,0,0,1
+'instance',0,0,1,0,0,0,0,0,0
+'coordinated distributed crash management system',1,0,3,0,2,0,0,0,0

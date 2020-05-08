@@ -1,0 +1,32 @@
+1	eshop
+2	system
+3	registered customer
+4	inventory
+5	supplier
+6	product
+7	maintain
+8	shipped
+9	product review
+10	damaged product
+11	negative review
+12	purchase
+13	payment
+14	gift card
+15	credit card company
+16	paypal
+
+1	2	M
+1	3	M
+2	4	M
+4	7	M
+4	5	O
+4	6	O
+6	8	O
+3	9	M
+3	12	M
+9	10	O
+10	11	O
+12	13	M
+13	14	O
+13	15	O
+13	16	O

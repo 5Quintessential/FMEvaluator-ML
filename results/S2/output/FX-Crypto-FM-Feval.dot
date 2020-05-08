@@ -1,0 +1,70 @@
+digraph FeatureModel {
+
+	 rankdir = TB; splines = "line";
+	 clusterrank= local;
+	 subgraph cluster_0 {
+		style = rounded; minlen = 0.01;
+		rankdir = TB; ranksep = 0.01;
+		label = "Legend";
+		color = "black";
+		fontname="helvetica-bold";
+		 theColors [label="                      ",shape="rectangle",fillcolor="0.5 1.0 1.0: 0.55 1.0 1.0: 0.6 1.0 1.0: 0.65 1.0 1.0: 0.7 1.0 1.0: 0.75 1.0 1.0: 0.8 1.0 1.0: 0.85 1.0 1.0: 0.9 1.0 1.0: 0.95 1.0 1.0: 1.0 1.0 1.0", fontname="helvetica-bold", style=striped];
+		 theLegend [label="colder     hotter",shape="plaintext",fontname="helvetica-bold"];
+		 theColors->theLegend [style=invis,len=0.01];
+	}
+	 subgraph cluster_1 {
+	n1	[label="coin", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n2	[label="bitcoin", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n3	[label="zerocoin", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n4	[label="proof_of_work_pricing_function", shape="rectangle",fillcolor="0.839 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n5	[label="onetime_destination_key", shape="rectangle",fillcolor="0.793 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n6	[label="untied_transaction", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n7	[label="transaction_output", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n8	[label="first_coin_commitment", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n9	[label="already_spent_coin", shape="rectangle",fillcolor="0.812 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n10	[label="public_key_derived", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n11	[label="routing", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n12	[label="transaction_sharing", shape="rectangle",fillcolor="0.793 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n13	[label="transaction_time", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n14	[label="private_key", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n15	[label="signature", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n16	[label="nonce_value", shape="rectangle",fillcolor="0.847 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n17	[label="arithemetic_circuit_ability", shape="rectangle",fillcolor="0.836 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n18	[label="non-deterministic_decision_circuit", shape="rectangle",fillcolor="0.836 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n19	[label="non-malleability", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n20	[label="poison_pill_block", shape="rectangle",fillcolor="0.832 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n21	[label="coinbase_transaction", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n22	[label="targeted_user", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n23	[label="everlasting_anonymity", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n24	[label="transaction_ledger", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n25	[label="transaction_fee", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n26	[label="backing_escrow_pool", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n27	[label="mint_transaction", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n1:s-> n2:n [color="0.994 1.0 1.0",dir=forward,arrowhead=odot];
+	n1:s-> n3:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n2:s-> n4:n [color="0.993 1.0 1.0",dir=forward,arrowhead=dot];
+	n2:s-> n5:n [color="0.932 1.0 1.0",dir=forward,arrowhead=dot];
+	n2:s-> n10:n [color="0.967 1.0 1.0",dir=forward,arrowhead=dot];
+	n2:s-> n16:n [color="0.993 1.0 1.0",dir=forward,arrowhead=dot];
+	n5:s-> n6:n [color="0.931 1.0 1.0",dir=forward,arrowhead=dot];
+	n6:s-> n7:n [color="0.992 1.0 1.0",dir=forward,arrowhead=dot];
+	n6:s-> n8:n [color="0.977 1.0 1.0",dir=forward,arrowhead=odot];
+	n7:s-> n9:n [color="0.979 1.0 1.0",dir=forward,arrowhead=odot];
+	n10:s-> n11:n [color="0.916 1.0 1.0",dir=forward,arrowhead=odot];
+	n11:s-> n12:n [color="0.902 1.0 1.0",dir=forward,arrowhead=odot];
+	n11:s-> n13:n [color="0.939 1.0 1.0",dir=forward,arrowhead=odot];
+	n11:s-> n14:n [color="0.939 1.0 1.0",dir=forward,arrowhead=odot];
+	n14:s-> n15:n [color="0.995 1.0 1.0",dir=forward,arrowhead=odot];
+	n3:s-> n17:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n3:s-> n19:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n3:s-> n20:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n17:s-> n18:n [color="0.894 1.0 1.0",dir=forward,arrowhead=odot];
+	n19:s-> n21:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n20:s-> n22:n [color="0.940 1.0 1.0",dir=forward,arrowhead=odot];
+	n21:s-> n23:n [color="0.952 1.0 1.0",dir=forward,arrowhead=odot];
+	n21:s-> n24:n [color="0.973 1.0 1.0",dir=forward,arrowhead=odot];
+	n21:s-> n25:n [color="0.971 1.0 1.0",dir=forward,arrowhead=odot];
+	n24:s-> n26:n [color="0.500 1.0 1.0",dir=forward,arrowhead=invempty];
+	n24:s-> n27:n [color="0.990 1.0 1.0",dir=forward,arrowhead=invempty];
+color = white;}
+}

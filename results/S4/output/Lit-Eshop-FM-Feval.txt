@@ -1,0 +1,50 @@
+1	eshop	0
+2	shipping_documents	0.26113665859496055
+3	shipment_details	0.26113665859496055
+4	list	0.27452922264198715
+5	catalog	0.27452922264198715
+6	inventory	0.27452922264198715
+7	confirm_purchase	0
+8	select_purchase_product	0
+9	cancel_order	0
+10	negative_product_review	0
+11	product_review	0.12526098217060516
+12	pay_with_paypal	0
+13	pay_with_credit_card	0
+14	pay_with_gift_card	0
+15	payment	0.27452922264198715
+16	shipping	0.27452922264198715
+17	land_shipping	0.12526098217060516
+18	product_delivery_status	0.05140291597336308
+19	air_mail_shipping	0.12526098217060516
+20	track_status	0
+21	track_order_status	0
+22	track_delivery_status	0
+23	shopping_cart	0.12526098217060516
+24	return_product	0
+25	return_damaged_product	0
+
+1	2	O	0	O
+1	3	M	0	O
+1	4	M	0	O
+1	7	O	0	O
+1	8	O	0	O
+1	9	O	0	O
+1	11	M	0	O
+1	15	M	0	O
+1	16	M	0	O
+1	18	M	0	O
+1	20	M	0	O
+1	23	O	0	O
+1	24	M	0	O
+4	5	O	0.9696969696969697	M
+4	6	O	0.9393939393939394	M
+11	10	O	0	O
+15	12	O	0	O
+15	13	O	0	O
+15	14	O	0	O
+16	17	O	0.8099173553719009	O
+16	19	O	0.9256198347107438	M
+20	21	O	0	O
+20	22	O	0	O
+24	25	O	0	O

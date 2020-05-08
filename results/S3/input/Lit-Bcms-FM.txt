@@ -1,0 +1,64 @@
+1	bcms
+2	crisis management
+3	users
+4	communication update
+5	resource management
+6	firemen
+7	victim
+8	police station coordinator
+9	policemen
+10	fire station coordinator
+11	witness
+12	confidentiality data communication
+13	encrypted
+14	non-encrypted
+15	receive crisis update
+16	single crisis
+17	multiple crisis
+18	user authentication
+19	password
+20	certificate
+21	biometric
+22	one time password
+23	challenge response
+24	protocol
+25	soap
+26	http
+27	proprietary
+28	allocate resource
+29	vehicle management
+30	manage traffic
+31	propose strategy
+32	route plan
+
+1	2	M
+1	3	M
+2	4	M
+2	5	M
+4	12	O
+4	15	O
+4	18	O
+4	24	O
+12	13	X
+12	14	X
+15	16	M
+15	17	O
+18	19	X
+18	20	X
+18	21	X
+18	22	X
+18	23	X
+24	25	X
+24	26	X
+24	27	X
+5	28	M
+5	30	O
+5	31	M
+28	29	O
+31	32	M
+3	6	O
+3	7	O
+3	8	O
+3	9	O
+3	10	O
+3	11	O

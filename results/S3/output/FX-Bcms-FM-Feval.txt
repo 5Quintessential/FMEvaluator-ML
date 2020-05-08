@@ -1,0 +1,36 @@
+1	bcrash	0.701809612697473
+2	vehicle_management	0
+3	vehicle_communication_protocol	0.9287596081606883
+4	police_station_coordinator	0.9287596081606883
+5	fire_station_coordinator	0.9287596081606883
+6	coordinated_route_plan	0.8470773776663789
+7	lead_coordinator	0.701809612697473
+8	wired_connection	0.701809612697473
+9	citizen_vehicle	0
+10	crisis_multiplicity	0.8470773776663789
+11	manage_traffic	0.8470773776663789
+12	messaging_infrastructure	0.8470773776663789
+13	send_and_receive_messages	0.8965717114669882
+14	security_mechanisms	0
+15	confidentiality	0.701809612697473
+16	encrypted	0.5786082757592839
+17	non-encrypted_communications	0.6832766885532371
+18	user_authentication	0.701809612697473
+
+1	2	M	0	O
+1	4	M	0.7105263157894737	O
+1	5	M	0.6907894736842105	O
+1	10	O	0.75	O
+1	12	M	0.6118421052631579	O
+2	3	O	0	O
+2	6	O	0	O
+4	7	O	0.8725761772853186	M
+5	8	O	0.7392659279778393	O
+5	9	O	0	O
+10	11	O	0.9868421052631579	M
+12	13	O	0.7513850415512465	O
+12	14	O	0	O
+14	15	O	0	O
+14	16	O	0	O
+14	17	O	0	O
+14	18	O	0	O

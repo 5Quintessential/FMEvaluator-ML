@@ -1,0 +1,58 @@
+digraph FeatureModel {
+
+	 rankdir = TB; splines = "line";
+	 clusterrank= local;
+	 subgraph cluster_0 {
+		style = rounded; minlen = 0.01;
+		rankdir = TB; ranksep = 0.01;
+		label = "Legend";
+		color = "black";
+		fontname="helvetica-bold";
+		 theColors [label="                      ",shape="rectangle",fillcolor="0.5 1.0 1.0: 0.55 1.0 1.0: 0.6 1.0 1.0: 0.65 1.0 1.0: 0.7 1.0 1.0: 0.75 1.0 1.0: 0.8 1.0 1.0: 0.85 1.0 1.0: 0.9 1.0 1.0: 0.95 1.0 1.0: 1.0 1.0 1.0", fontname="helvetica-bold", style=striped];
+		 theLegend [label="colder     hotter",shape="plaintext",fontname="helvetica-bold"];
+		 theColors->theLegend [style=invis,len=0.01];
+	}
+	 subgraph cluster_1 {
+	n1	[label="cryptocurrency", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n2	[label="blockchain", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n3	[label="untied_transaction", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n4	[label="non-malleability", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n5	[label="complete_anonymity", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n6	[label="decentralized_ledger", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n7	[label="simple_payment_verification", shape="rectangle",fillcolor="0.793 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n8	[label="unforgeable", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n9	[label="transaction_fee", shape="rectangle",fillcolor="0.878 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n10	[label="one_time_public_key", shape="rectangle",fillcolor="0.847 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n11	[label="privacy_protection", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n12	[label="zero_cash", shape="rectangle",fillcolor="0.793 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n13	[label="verge", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n14	[label="cryptonote", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n15	[label="proof_of_work_pricing_function", shape="rectangle",fillcolor="0.839 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n16	[label="first_coin_commitment", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n17	[label="routing", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n18	[label="public_key_derived", shape="rectangle",fillcolor="0.772 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n19	[label="private_key_signature", shape="rectangle",fillcolor="0.816 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n20	[label="untraceability", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n21	[label="unlinkability", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n1:s-> n2:n [color="0.954 1.0 1.0",dir=forward,arrowhead=dot];
+	n2:s-> n3:n [color="0.994 1.0 1.0",dir=forward,arrowhead=odot];
+	n2:s-> n4:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n2:s-> n5:n [color="0.971 1.0 1.0",dir=forward,arrowhead=odot];
+	n2:s-> n6:n [color="0.997 1.0 1.0",dir=forward,arrowhead=odot];
+	n3:s-> n7:n [color="0.994 1.0 1.0",dir=forward,arrowhead=invempty];
+	n3:s-> n8:n [color="0.500 1.0 1.0",dir=forward,arrowhead=invempty];
+	n3:s-> n9:n [color="0.992 1.0 1.0",dir=forward,arrowhead=invempty];
+	n7:s-> n15:n [color="0.995 1.0 1.0",dir=forward,arrowhead=dot];
+	n8:s-> n16:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n8:s-> n17:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n5:s-> n10:n [color="0.883 1.0 1.0",dir=forward,arrowhead=dot];
+	n5:s-> n11:n [color="0.971 1.0 1.0",dir=forward,arrowhead=dot];
+	n10:s-> n18:n [color="0.882 1.0 1.0",dir=forward,arrowhead=odot];
+	n10:s-> n19:n [color="0.905 1.0 1.0",dir=forward,arrowhead=odot];
+	n11:s-> n20:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n11:s-> n21:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n6:s-> n12:n [color="0.984 1.0 1.0",dir=forward,arrowhead=invempty];
+	n6:s-> n13:n [color="0.978 1.0 1.0",dir=forward,arrowhead=invempty];
+	n6:s-> n14:n [color="0.500 1.0 1.0",dir=forward,arrowhead=invempty];
+color = white;}
+}

@@ -1,0 +1,66 @@
+digraph FeatureModel {
+
+	 rankdir = TB; splines = "line";
+	 clusterrank= local;
+	 subgraph cluster_0 {
+		style = rounded; minlen = 0.01;
+		rankdir = TB; ranksep = 0.01;
+		label = "Legend";
+		color = "black";
+		fontname="helvetica-bold";
+		 theColors [label="                      ",shape="rectangle",fillcolor="0.5 1.0 1.0: 0.55 1.0 1.0: 0.6 1.0 1.0: 0.65 1.0 1.0: 0.7 1.0 1.0: 0.75 1.0 1.0: 0.8 1.0 1.0: 0.85 1.0 1.0: 0.9 1.0 1.0: 0.95 1.0 1.0: 1.0 1.0 1.0", fontname="helvetica-bold", style=striped];
+		 theLegend [label="colder     hotter",shape="plaintext",fontname="helvetica-bold"];
+		 theColors->theLegend [style=invis,len=0.01];
+	}
+	 subgraph cluster_1 {
+	n1	[label="eshop", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n2	[label="shipping_documents", shape="rectangle",fillcolor="0.631 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n3	[label="shipment_details", shape="rectangle",fillcolor="0.631 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n4	[label="list", shape="rectangle",fillcolor="0.637 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n5	[label="catalog", shape="rectangle",fillcolor="0.637 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n6	[label="inventory", shape="rectangle",fillcolor="0.637 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n7	[label="confirm_purchase", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n8	[label="select_purchase_product", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n9	[label="cancel_order", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n10	[label="negative_product_review", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n11	[label="product_review", shape="rectangle",fillcolor="0.563 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n12	[label="pay_with_paypal", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n13	[label="pay_with_credit_card", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n14	[label="pay_with_gift_card", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n15	[label="payment", shape="rectangle",fillcolor="0.637 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n16	[label="shipping", shape="rectangle",fillcolor="0.637 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n17	[label="land_shipping", shape="rectangle",fillcolor="0.563 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n18	[label="product_delivery_status", shape="rectangle",fillcolor="0.526 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n19	[label="air_mail_shipping", shape="rectangle",fillcolor="0.563 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n20	[label="track_status", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n21	[label="track_order_status", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n22	[label="track_delivery_status", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n23	[label="shopping_cart", shape="rectangle",fillcolor="0.563 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n24	[label="return_product", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n25	[label="return_damaged_product", shape="rectangle",fillcolor="0.500 1.0 1.0", fontname="helvetica-bold", style=filled];
+	n1:s-> n2:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n1:s-> n3:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n4:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n7:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n1:s-> n8:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n1:s-> n9:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n1:s-> n11:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n15:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n16:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n18:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n20:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n1:s-> n23:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n1:s-> n24:n [color="0.500 1.0 1.0",dir=forward,arrowhead=dot];
+	n4:s-> n5:n [color="0.985 1.0 1.0",dir=forward,arrowhead=odot];
+	n4:s-> n6:n [color="0.970 1.0 1.0",dir=forward,arrowhead=odot];
+	n11:s-> n10:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n15:s-> n12:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n15:s-> n13:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n15:s-> n14:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n16:s-> n17:n [color="0.905 1.0 1.0",dir=forward,arrowhead=odot];
+	n16:s-> n19:n [color="0.963 1.0 1.0",dir=forward,arrowhead=odot];
+	n20:s-> n21:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n20:s-> n22:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+	n24:s-> n25:n [color="0.500 1.0 1.0",dir=forward,arrowhead=odot];
+color = white;}
+}

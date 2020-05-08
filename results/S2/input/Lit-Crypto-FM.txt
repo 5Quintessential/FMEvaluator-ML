@@ -1,0 +1,42 @@
+1	cryptocurrency
+2	blockchain
+3	untied transaction
+4	non-malleability
+5	complete anonymity
+6	decentralized ledger
+7	simple payment verification
+8	unforgeable
+9	transaction fee
+10	one time public key
+11	privacy protection
+12	zero cash
+13	verge
+14	cryptonote
+15	proof of work pricing function
+16	first coin commitment
+17	routing
+18	public key derived
+19	private key signature
+20	untraceability
+21	unlinkability
+
+1	2	M
+2	3	O
+2	4	O
+2	5	O
+2	6	O
+3	7	X
+3	8	X
+3	9	X
+7	15	M
+8	16	M
+8	17	M
+5	10	M
+5	11	M
+10	18	O
+10	19	O
+11	20	O
+11	21	O
+6	12	X
+6	13	X
+6	14	X
