@@ -1,0 +1,3064 @@
+1	   vehicle
+2	   accident
+3	   adjustment
+4	   child restraint
+5	   front passenger seat
+6	   journey
+7	   protective function
+8	   airbag function
+9	   restraint system
+10	  vehicle system
+11	  seat belt seat
+12	  switch
+13	  tire pressure
+14	  accident caused
+15	  differ
+16	  account
+17	  route option
+18	  activated auto
+19	  automatic software update
+20	  activation code
+21	  storage medium
+22	  activation con
+23	  possible accelera tion
+24	  standstill
+25	  active profile
+26	  vehicle display
+27	  addi tion
+28	  underneath
+29	  additional injury
+30	  seat belt
+31	  additional online service
+32	  navigation map
+33	  map service
+34	  online map
+35	  additional value
+36	  display content
+37	  fuel filler flap location
+38	  adjacent lane
+39	  vehicle detected
+40	  adjust
+41	  adjustment function
+42	  following situation
+43	  accident situation
+44	  traffic situation
+45	  situation function
+46	  excessive tire pressure
+47	  airbag deployed
+48	  minor deformation
+49	  deployed airbag
+50	  airbag deployment
+51	  injury
+52	  airbag side
+53	  deploy
+54	  front passenger side
+55	  side window
+56	  ambient condition
+57	  become
+58	  following setting
+59	  assist
+60	  assistance
+61	  approx
+62	  electrostatic charge
+63	  special ist workshop
+64	  vehicle battery
+65	  attention level
+66	  warning message
+67	  audio equipment
+68	  mobile phone connected
+69	  audio source
+70	  tone sound
+71	  warning tone
+72	  automatic closing
+73	  automatic front passenger airbag
+74	  passenger air bag
+75	  front airbag shutoff automatic
+76	  automatic operation
+77	  automatic seat adjustment
+78	  seat position
+79	  automatic transmission
+80	  transmission position j
+81	  transmission position
+82	  available category
+83	  available service
+84	  available today
+85	  avoid area
+86	  route avoiding
+87	  axle component
+88	  tire size
+89	  axle weight rating
+90	  vehicle weight rating
+91	  back ground
+92	  update update
+93	  background
+94	  ball head height
+95	  trailer load
+96	  vehicle height
+97	  battery
+98	  battery charging
+99	  battery clamp
+100	 handling characteristic
+101	 become trapped
+102	 ble weight
+103	 calcula ted
+104	 collision
+105	 operate
+106	 brake applied
+107	 electric parking brake
+108	 brake electric
+109	 brake indicator lamp
+110	 brake function
+111	 brake pedal
+112	 braking
+113	 braking characteristic
+114	 han dling characteristic
+115	 low tire pressure
+116	 tire characteristic
+117	 material
+118	 braking distance
+119	 burn-like injury
+120	 careful attention
+121	 cargo compart ment cover
+122	 heavy load
+123	 cargo compartment
+124	 cargo compartment cover
+125	 dam aged
+126	 vehicle vehicle speed
+127	 speed limit
+128	 catalytic converter
+129	 cause engine damage
+130	 center seat backrest
+131	 left seat
+132	 certain application
+133	 switch voice command switch
+134	 voice command voice
+135	 certain tightening force
+136	 characteristic
+137	 gravity
+138	 airbag
+139	 direction
+140	 restraint front
+141	 vehicle occupant
+142	 wrong direction
+143	 child seat
+144	 seat seat
+145	 children children
+146	 closing
+147	 flammable material
+148	 parking brake
+149	 children unattended
+150	 cigarette lighter
+151	 circumstance
+152	 parking space
+153	 climate condition
+154	 driving condition
+155	 road condition
+156	 climate control
+157	 control climate
+158	 climate control synchronization function
+159	 close range
+160	 closed
+161	 automati
+162	 motion
+163	 closing function
+164	 rear bumper
+165	 cockpit
+166	 cold air
+167	 cold tire pressure
+168	 color combination
+169	 com pleted
+170	 massage driver
+171	 wave massage
+172	 command massage
+173	 component
+174	 con nection
+175	 concentration
+176	 connect
+177	 country
+178	 connect equipment
+179	 vehicle equipment
+180	 connect service
+181	 voice control
+182	 connection
+183	 display message
+184	 connection established
+185	 connection multimedia
+186	 consideration
+187	 contact
+188	 voice input
+189	 container
+190	 liquid
+191	 content
+192	 activated
+193	 control
+194	 online service
+195	 seat position calculated
+196	 vehicle position
+197	 correct position
+198	 outside mirror
+199	 crash investigation
+200	 law enforcement
+201	 cruise control cruise
+202	 stored speed
+203	 speed stored
+204	 parking direction
+205	 current road
+206	 current route guidance
+207	 current situation
+208	 damage
+209	 retreaded tire
+210	 damage caused
+211	 engine damage
+212	 deactivate
+213	 deactivated state
+214	 degree whilst driving
+215	 function
+216	 design
+217	 destination
+218	 destination reached
+219	 detect
+220	 device
+221	 ignition ignition
+222	 position
+223	 value displayed
+224	 direct sunlight
+225	 light function
+226	 parking
+227	 dirt grinder
+228	 visible damage
+229	 disabled front passenger airbag
+230	 display menu
+231	 multifunction display
+232	 display message display
+233	 left-hand
+234	 message shown
+235	 display style
+236	 range display
+237	 drive program display
+238	 displayed
+239	 street name
+240	 drive position
+241	 stored position
+242	 ignition
+243	 parking vehicle
+244	 following road user
+245	 vehicle door
+246	 vehicle note
+247	 drive wheel
+248	 driven
+249	 driven speed
+250	 speed driven
+251	 driver
+252	 intervene
+253	 drivetrain
+254	 driving
+255	 braking function
+256	 warning
+257	 driving characteristic
+258	 towed vehicle
+259	 driving safety
+260	 driving style
+261	 driving system
+262	 automatic anti-glare mirror break
+263	 electric shock
+264	 electromagnetic radiation
+265	 electronic component part
+266	 wiring
+267	 emergency braking situation
+268	 emergency call
+269	 emergency call center
+270	 emission limit value
+271	 energy
+272	 engine
+273	 sensor
+274	 engine compart ment
+275	 engine compartment
+276	 engine oil
+277	 different location
+278	 engine oil level
+279	 computer
+280	 normal level
+281	 engine running
+282	 red warning lamp
+283	 warning/indicator lamp warning/indicator
+284	 engine warning/indicator
+285	 engine stop
+286	 entire journey
+287	 entire width
+288	 tire tire
+289	 equipment
+290	 escape
+291	 exceed
+292	 exceeded
+293	 vehicle speed increase
+294	 overinflated tire
+295	 tire load
+296	 exit warning
+297	 situation
+298	 exterior antenna
+299	 fastened seat belt
+300	 airbag protection
+301	 favorite favorite
+302	 filling hose
+303	 tire sealant
+304	 electric line
+305	 first seat row
+306	 windshield windshield
+307	 flammable mixture
+308	 flat tire flat
+309	 display ing
+310	 follow ing condition
+311	 follow ing standard
+312	 following
+313	 menu calling
+314	 book entry
+315	 following action
+316	 profile list
+317	 following com
+318	 different dimension
+319	 suspension com
+320	 following condition
+321	 following display
+322	 central display
+323	 dialog
+324	 display button
+325	 following display content
+326	 traffic sign
+327	 following design
+328	 following driving system
+329	 following function
+330	 following tel ephony
+331	 profile function
+332	 mobile phone function
+333	 ideal route
+334	 recep tion
+335	 following note
+336	 following topic
+337	 following option
+338	 search field
+339	 assistance setting
+340	 following case
+341	 speech quality
+342	 following table
+343	 following waveband
+344	 footwell
+345	 depressed pedal
+346	 travel
+347	 foreground
+348	 forward-facing child restraint system
+349	 safety restraint
+350	 front fender
+351	 front passenger
+352	 front passenger airbag
+353	 passenger vehicle
+354	 front passenger interaction
+355	 vehicle seat
+356	 corresponding seat
+357	 lit con
+358	 person
+359	 rear seat
+360	 stature
+361	 front passenger seat belt
+362	 front seat
+363	 front-passenger seat
+364	 fuel supply
+365	 overrevving range
+366	 touchpad
+367	 function hold
+368	 function multimedia
+369	 activa multimedia
+370	 message multimedia
+371	 learn function
+372	 message function
+373	 profile multimedia
+374	 phone multimedia
+375	 mobile multimedia
+376	 radio station multimedia
+377	 function search
+378	 global search
+379	 search global
+380	 select ª search
+381	 search function
+382	 character input function
+383	 distance approx
+384	 additional function
+385	 guarantee
+386	 hazard warning
+387	 head restraint
+388	 health
+389	 heavy object
+390	 luggage
+391	 height specified
+392	 holder
+393	 hot cigarette lighter
+394	 hot coolant
+395	 ignite fuel vapor
+396	 locked vehicle
+397	 imminent
+398	 increase
+399	 indicator lamp
+400	 lamp restraint
+401	 road user
+402	 wind shield wiper
+403	 wiper linkage
+404	 installation
+405	 installed wheel
+406	 tire pressure sensor
+407	 road traffic regulation
+408	 instrument cluster
+409	 right seat backrest
+410	 integration
+411	 interior
+412	 intermedi- ate destination
+413	 intermediate destina tion flag
+414	 intermediate destination
+415	 invisible laser beam
+416	 jack support point
+417	 jour ney
+418	 judgment
+419	 latitude elevation
+420	 elevation shown
+421	 permissible speed rating
+422	 multimedia
+423	 light switch
+424	 limiter
+425	 detected speed
+426	 lit cigarette
+427	 moisture moisture
+428	 manual multimedia
+429	 map multimedia
+430	 digital map
+431	 current vehicle position multimedia
+432	 map please
+433	 side massage
+434	 maximum
+435	 prompt
+436	 maximum tire load
+437	 maximum tire pressure
+438	 maximum weight
+439	 trailer cable
+440	 tire weight
+441	 trailer drawbar noseweight
+442	 memory function position switch
+443	 memory pre set
+444	 next track
+445	 ment position
+446	 wiper arm
+447	 automatic mode
+448	 climate mode
+449	 air mode
+450	 mode function
+451	 mobile communication
+452	 mobile phone
+453	 phone mode
+454	 transmission volume
+455	 telephone multimedia
+456	 connected telephone
+457	 mobile phone connection
+458	 code shown
+459	 vehicle connection
+460	 profile
+461	 mobile phone multimedia
+462	 mobile phone receptacle
+463	 modification
+464	 move ment
+465	 moving part
+466	 station
+467	 music genre
+468	 navigation announcement multimedia
+469	 nec essary
+470	 nect service
+471	 net book
+472	 net work operator
+473	 network connection
+474	 communi cation module
+475	 online connection
+476	 connection quality
+477	 nominal value
+478	 object
+479	 on-board com puter
+480	 inner segment
+481	 outer segment
+482	 on-board computer on-board
+483	 on/off on/off
+484	 online portal
+485	 available vehicle
+486	 online voice control online
+487	 following online function
+488	 operable function
+489	 vehicle function
+490	 original position
+491	 outside
+492	 voice dialog
+493	 outside mir ror
+494	 inside rearview mirror
+495	 light sensor
+496	 side mirror vehicle
+497	 stored parking position
+498	 overhead control panel
+499	 button
+500	 overheated tire overheated
+501	 overview
+502	 panel caused
+503	 approved
+504	 damaged
+505	 camera vehicle
+506	 trailer hitch vehicle
+507	 vehicle rear
+508	 open door
+509	 passenger car tire
+510	 permanent damage
+511	 permissible fording depth
+512	 phone function
+513	 plastic part
+514	 playback
+515	 played
+516	 rear segment
+517	 position button
+518	 center console
+519	 vehicle center
+520	 possible tire failure
+521	 pot hole
+522	 high tire pressure
+523	 power assistance
+524	 steering
+525	 pressure
+526	 profile setting
+527	 portal
+528	 proper pressure
+529	 low tire pressure telltale
+530	 proper tire inflation pressure
+531	 tire inflation pressure label
+532	 protection
+533	 fatal acci dent
+534	 pulmonary condition
+535	 qualified specialist workshop
+536	 radio mode
+537	 current range show
+538	 rare occasion
+539	 ratcheting sound
+540	 socket
+541	 following message
+542	 message voice command voice
+543	 vehicle safety
+544	 safety vehicle
+545	 rear axle
+546	 rear door
+547	 rear view camera
+548	 rear window wiper
+549	 recommendation
+550	 reduced tire grip
+551	 relevant note
+552	 remain
+553	 repair
+554	 request
+555	 required repair
+556	 discharged battery
+557	 respective search result
+558	 restraint
+559	 following system
+560	 result
+561	 result shown
+562	 reverse function
+563	 reversing function
+564	 closing area
+565	 ride comfort
+566	 weather condition
+567	 road surface water
+568	 safe distance
+569	 road surface condition
+570	 certain distance
+571	 route event
+572	 route guidance
+573	 safety reason
+574	 safety system
+575	 saved route
+576	 search overview
+577	 seat backrest
+578	 rear seat backrest
+579	 fold seat
+580	 seat center
+581	 ded forward
+582	 outer seat backrest
+583	 seat heating
+584	 seat posi tion
+585	 rearmost position
+586	 driver profile
+587	 select
+588	 select display
+589	 select setting
+590	 service
+591	 service interval display
+592	 connected battery
+593	 service menu
+594	 seat setting
+595	 next service
+596	 climate control setting
+597	 service reminder
+598	 sufficient
+599	 setting
+600	 maximum force
+601	 increased force
+602	 side window opened
+603	 convenience closing feature
+604	 signal indicator
+605	 similar situation
+606	 sliding sunroof
+607	 smartphone
+608	 smartphone app
+609	 snow chain
+610	 vehicle component
+611	 spare wheel
+612	 specific characteristic
+613	 identifier
+614	 sport alert
+615	 start/stop function
+616	 respective user profile
+617	 station name
+618	 steering wheel
+619	 easy exit feature
+620	 ignition door
+621	 stow object
+622	 struck
+623	 sudden tire failure
+624	 suitable seating position
+625	 sun roof
+626	 support
+627	 player
+628	 symbol
+629	 seat belt buckle
+630	 tailgate
+631	 telephone setting
+632	 overwritten
+633	 three-point seat belt
+634	 booster seat
+635	 proper seat
+636	 seat height
+637	 tire damaged
+638	 tire failure
+639	 run-flat tire
+640	 tire pressure monitor
+641	 tire side wall
+642	 tire marked
+643	 tire traction
+644	 tongue weight
+645	 touchscreen multimedia
+646	 vehicle weight
+647	 traffic
+648	 traffic incident
+649	 traffic map
+650	 traffic multimedia
+651	 traffic regulation
+652	 trailer
+653	 trailer coupling
+654	 trailer stabilization
+655	 tread life
+656	 ability
+657	 trostatic charge
+658	 tutorial please
+659	 corresponding voice command
+660	 tutorial voice command
+661	 ultrasonic sensor
+662	 unat tended
+663	 underbody
+664	 undesired operation
+665	 unlocking function
+666	 unusual handling characteristic
+667	 update
+668	 vehicle
+669	 vehicle occupant
+670	 vehicle raised
+671	 vehicle/trailer combination
+672	 permit
+673	 instruction
+674	 maintenance work
+675	 online search
+676	 standard height
+677	 technical condition
+678	 info tainment function
+679	 exam ple
+680	 door drive
+681	 long distance
+682	 measured value
+683	 mobile device
+684	 vehicle setting
+685	 vehicle lighting
+686	 drive program selected
+687	 drive program drive
+688	 briefly
+689	 ambient lighting
+690	 manufacturer
+691	 towing vehicle
+692	 certain situation
+693	 loca tion
+694	 current vehicle position
+695	 child safety lock installed
+696	 vehicle activate
+697	 activate vehicle equipment
+698	 safety vest
+699	 instruc
+700	 mal functioned
+701	 several driver
+702	 message please
+703	 seat setting multimedia
+704	 saved station
+705	 follow ing setting
+706	 tow bar system
+707	 length vehicle
+708	 maximum speed
+709	 permissible vehicle speed
+710	 load-bearing capacity
+711	 unlocked engine hood
+712	 telephone voice command
+713	 voice quality
+714	 fluctuate
+715	 fuel consumption
+716	 warning lamp
+717	 washer fluid light
+718	 waste disposal
+719	 full full
+720	 prescribed tightening torque
+721	 wheel bolts/ wheel nut
+722	 view camera
+723	 wiper rubber
+724	 word address
+725	 worn seat belt
+726	 acceleration
+727	 accelerator pedal
+728	 provide
+729	 rejected
+730	 active park
+731	 air supply
+732	 fresh air
+733	 stationary heater
+734	 vehicle stationary
+735	 aloud function
+736	 style function
+737	 approved roof
+738	 assessment
+739	 assistance graphic
+740	 attention
+741	 automatic emergency call
+742	 available service facility
+743	 available software update
+744	 ball neck
+745	 battery check lamp
+746	 ball coupling
+747	 breakdown service
+748	 following service
+749	 emergency service
+750	 bumper
+751	 suggestion suggestion
+752	 delivered
+753	 respective seat
+754	 children left
+755	 classification
+756	 con nected
+757	 voice con
+758	 control box
+759	 correct driver
+760	 speedometer
+761	 next destination
+762	 insufficient engine oil pressure
+763	 pulled
+764	 death caused
+765	 desired service
+766	 detected obstacle
+767	 device name
+768	 digital map generated
+769	 direction arrow
+770	 radio display
+771	 warning display
+772	 door handle
+773	 driv ing forward
+774	 specified tire pressure
+775	 dynamic manner
+776	 stationary vehicle detected
+777	 motorcycle
+778	 vehicle condition
+779	 driving instruction
+780	 economical driving style
+781	 sporty driving style
+782	 following driving style
+783	 electrical connection
+784	 side camera view
+785	 electrical fuse
+786	 available cargo
+787	 operation
+788	 red coolant warning lamp
+789	 lamp red
+790	 yellow
+791	 automatic engine stop
+792	 following speed
+793	 protection offered
+794	 fluid sealed
+795	 following component
+796	 parked vehicle
+797	 low speed
+798	 low ered
+799	 following area
+800	 following notification
+801	 following component
+802	 following content
+803	 automatic car wash
+804	 automatic function
+805	 following hazard warning
+806	 following instruction
+807	 option multimedia
+808	 following play
+809	 following route event
+810	 stored route
+811	 following step
+812	 weight threshold
+813	 foreground mobile
+814	 front center
+815	 automatic front passenger air
+816	 specialist workshop automatic
+817	 shutoff see automatic
+818	 enabled front airbag
+819	 front seat belt
+820	 front passenger door stowage compartment
+821	 front right
+822	 func multimedia
+823	 factory setting
+824	 vehicle speed
+825	 future
+826	 head control panel
+827	 high load
+828	 inappropriate coolant
+829	 switched
+830	 tow-away alarm multimedia
+831	 alarm alarm
+832	 indicate
+833	 vehicle convenience
+834	 infor mation system
+835	 distraction
+836	 communica tion equipment integrated
+837	 injury caused
+838	 installation instruction
+839	 equipped
+840	 changed
+841	 selected drive program driving
+842	 tire load rating
+843	 maximum speed rating
+844	 parking light
+845	 ambi ent light
+846	 light daytime
+847	 lamp light
+848	 low beam indicator lamp
+849	 lane marking
+850	 language
+851	 last station
+852	 last selected
+853	 joined
+854	 level button
+855	 fuel reserve level
+856	 load limit
+857	 loaded
+858	 connec ted
+859	 route multimedia
+860	 map scale multimedia
+861	 touchpad multimedia
+862	 map select
+863	 media found
+864	 memory function
+865	 read aloud
+866	 middle finger
+867	 mobile phone network
+868	 phone call
+869	 mobile phone stow age compartment
+870	 mobile phone stowage compartment caused
+871	 model engine
+872	 possible restriction
+873	 multifunction
+874	 network name
+875	 next route
+876	 oil note
+877	 online function
+878	 operating instruction
+879	 optical warning
+880	 overloa ded
+881	 panoramic sliding sunroof
+882	 completed
+883	 personalization service
+884	 please contact
+885	 program
+886	 subjected
+887	 qualified spe cialist workshop
+888	 radar sensor
+889	 radiator fan
+890	 rear wheel
+891	 recom mended
+892	 red area
+893	 red warning display
+894	 red distance
+895	 red lock verification indicator
+896	 reinforced
+897	 disconnected
+898	 respective service provider
+899	 retrea ded
+900	 rim checked
+901	 roller dyna
+902	 route list
+903	 route overview
+904	 route setting
+905	 safety
+906	 safety note
+907	 breaking-in note
+908	 search light
+909	 seat adjustment
+910	 seat adjustment switch
+911	 seat cushion length adjust
+912	 seat cushion inclination
+913	 seat protected
+914	 selected list
+915	 station list
+916	 station shown
+917	 audible alarm
+918	 tow-away alarm
+919	 visual alarm
+920	 sound setting sound
+921	 speci fied
+922	 standard setting
+923	 engine speed
+924	 wheel symbol
+925	 wheel button
+926	 wheel heater
+927	 surface
+928	 switch function
+929	 automatic obstruction detection
+930	 tire manufacturer
+931	 peak traction characteristic
+932	 toll station
+933	 touch control multimedia
+934	 appli cation
+935	 touch functionality
+936	 current selection
+937	 control element
+938	 desti nation entry
+939	 favorite overview
+940	 control menu
+941	 selected
+942	 touchpad call
+943	 touchscreen tapping
+944	 towing company
+945	 trailer drawbar
+946	 valve cap
+947	 vehicle placard
+948	 placard
+949	 active drive program
+950	 method vehicle
+951	 vehicle ready
+952	 bright vehicle symbol
+953	 green vehicle symbol
+954	 accident anticipated
+955	 activation threshold
+956	 sensor value measured
+957	 severity
+958	 operation activated
+959	 following component checked
+960	 gravel
+961	 route-based speed adaptation
+962	 high-speed
+963	 loaded vehicle
+964	 visibility
+965	 desired function
+966	 voice- operated
+967	 wash bay
+968	 washed
+969	 windshield wiper
+970	 ç symbol
+971	 green ç
+972	 fatal injury
+973	 additional suggestion
+974	 desired
+975	 pressure warning
+976	 and/or accident
+977	 appoint ment
+978	 arrival
+979	 automatic braking
+980	 brake force boosting
+981	 following sit
+982	 certain setting
+983	 correct seat position
+984	 current fuel consumption
+985	 current tire pressure
+986	 heavy spray
+987	 distance
+988	 dry cloth
+989	 emergency call center operator
+990	 emergency key
+991	 open driver
+992	 ignite
+993	 failure
+994	 finish
+995	 specific vehicle require
+996	 following object
+997	 stationary object
+998	 front passenger air bag
+999	 warn ing
+1000	bicycle
+1001	gasoline engine
+1002	high center
+1003	hot engine component part
+1004	incorrect installation
+1005	incorrect positioning
+1006	initiation
+1007	investigation
+1008	liquid perfume
+1009	low brake fluid level
+1010	correct tire pressure
+1011	memory position button
+1012	charging function
+1013	ignition
+1014	connection
+1015	navigation menu
+1016	additional system
+1017	additional connection
+1018	observe
+1019	optional equipment
+1020	please discus
+1021	following address
+1022	pothole
+1023	pro tection
+1024	qualified specialist workshop coolant
+1025	seat/rear seat
+1026	recognition
+1027	unsuitable ball coupling
+1028	safety display
+1029	secure
+1030	satellite radio category multimedia
+1031	seat belt tongue
+1032	front- passenger seat
+1033	select automatic
+1034	select avoid area
+1035	select delete
+1036	select call
+1037	select home
+1038	situation-dependent braking assistance
+1039	application
+1040	sunroof close
+1041	slippery road surface
+1042	storage media
+1043	stowage compartment
+1044	swerving maneuver
+1045	synchronization function
+1046	tire installed
+1047	traffic jam
+1048	vehicle document
+1049	emergency call center service provider
+1050	open cargo compartment floor
+1051	on-board
+1052	character input
+
+668	2	O
+668	16	O
+668	18	O
+668	20	O
+668	22	O
+668	25	O
+668	26	O
+668	27	O
+668	29	O
+668	31	O
+668	35	O
+668	38	O
+668	40	O
+668	41	O
+668	47	O
+668	50	O
+668	52	O
+668	56	O
+668	59	O
+668	60	O
+668	65	O
+668	72	O
+668	73	O
+668	76	O
+668	77	O
+668	79	O
+668	82	O
+668	83	O
+668	84	O
+668	87	O
+668	89	O
+668	94	O
+668	97	O
+668	98	O
+668	99	O
+668	102	O
+668	112	O
+668	113	O
+668	118	O
+668	119	O
+668	121	O
+668	123	O
+668	124	O
+668	128	O
+668	135	O
+668	136	O
+668	136	O
+668	143	O
+668	145	O
+668	149	O
+668	150	O
+668	151	O
+668	153	O
+668	156	O
+668	158	O
+668	159	O
+668	160	O
+668	163	O
+668	165	O
+668	166	O
+668	167	O
+668	168	O
+668	169	O
+668	173	O
+668	174	O
+668	175	O
+668	176	O
+668	178	O
+668	180	O
+668	1014	O
+668	184	O
+668	186	O
+668	187	O
+668	189	O
+668	191	O
+668	193	O
+668	197	O
+668	199	O
+668	201	O
+668	201	O
+668	205	O
+668	207	O
+668	208	O
+668	212	O
+668	213	O
+668	213	O
+668	214	O
+668	216	O
+668	217	O
+668	218	O
+668	219	O
+668	220	O
+668	224	O
+668	227	O
+668	229	O
+668	230	O
+668	232	O
+668	235	O
+668	238	O
+668	238	O
+668	238	O
+668	240	O
+668	243	O
+668	247	O
+668	248	O
+668	249	O
+668	251	O
+668	253	O
+668	254	O
+668	257	O
+668	259	O
+668	260	O
+668	261	O
+668	261	O
+668	263	O
+668	264	O
+668	265	O
+668	267	O
+668	268	O
+668	269	O
+668	270	O
+668	271	O
+668	272	O
+668	274	O
+668	276	O
+668	278	O
+668	281	O
+668	285	O
+668	286	O
+668	287	O
+668	287	O
+668	289	O
+668	289	O
+668	290	O
+668	291	O
+668	292	O
+668	296	O
+668	298	O
+668	298	O
+668	299	O
+668	301	O
+668	301	O
+668	301	O
+668	302	O
+668	302	O
+668	305	O
+668	307	O
+668	308	O
+668	310	O
+668	311	O
+668	312	O
+668	315	O
+668	317	O
+668	320	O
+668	321	O
+668	325	O
+668	328	O
+668	329	O
+668	335	O
+668	337	O
+668	342	O
+668	343	O
+668	344	O
+668	347	O
+668	348	O
+668	348	O
+668	350	O
+668	351	O
+668	352	O
+668	354	O
+668	361	O
+668	362	O
+668	363	O
+668	364	O
+668	367	O
+668	368	O
+668	377	O
+668	384	O
+668	384	O
+668	385	O
+668	385	O
+668	386	O
+668	387	O
+668	388	O
+668	389	O
+668	391	O
+668	391	O
+668	392	O
+668	392	O
+668	393	O
+668	394	O
+668	395	O
+668	395	O
+668	397	O
+668	398	O
+668	399	O
+668	404	O
+668	405	O
+668	406	O
+668	407	O
+668	408	O
+668	410	O
+668	411	O
+668	412	O
+668	413	O
+668	414	O
+668	415	O
+668	416	O
+668	417	O
+668	418	O
+668	418	O
+668	418	O
+668	419	O
+668	419	O
+668	419	O
+668	423	O
+668	423	O
+668	424	O
+668	426	O
+668	426	O
+668	426	O
+668	428	O
+668	432	O
+668	434	O
+668	436	O
+668	438	O
+668	442	O
+668	443	O
+668	445	O
+668	445	O
+668	451	O
+668	452	O
+668	457	O
+668	461	O
+668	462	O
+668	463	O
+668	463	O
+668	464	O
+668	465	O
+668	465	O
+668	465	O
+668	467	O
+668	469	O
+668	470	O
+668	471	O
+668	472	O
+668	473	O
+668	477	O
+668	477	O
+668	478	O
+668	479	O
+668	482	O
+668	483	O
+668	484	O
+668	486	O
+668	486	O
+668	490	O
+668	491	O
+668	493	O
+668	498	O
+668	500	O
+668	501	O
+668	501	O
+668	508	O
+668	509	O
+668	510	O
+668	511	O
+668	512	O
+668	513	O
+668	515	O
+668	515	O
+668	517	O
+668	520	O
+668	521	O
+668	523	O
+668	525	O
+668	526	O
+668	528	O
+668	530	O
+668	532	O
+668	534	O
+668	535	O
+668	535	O
+668	535	O
+668	536	O
+668	538	O
+668	539	O
+668	539	O
+668	539	O
+668	545	O
+668	546	O
+668	547	O
+668	548	O
+668	549	O
+668	550	O
+668	551	O
+668	552	O
+668	553	O
+668	554	O
+668	555	O
+668	557	O
+668	300	O
+668	558	O
+668	560	O
+668	561	O
+668	562	O
+668	563	O
+668	565	O
+668	567	O
+668	571	O
+668	572	O
+668	573	O
+668	574	O
+668	575	O
+668	576	O
+668	576	O
+668	580	O
+668	583	O
+668	584	O
+668	587	O
+668	588	O
+668	589	O
+668	590	O
+668	591	O
+668	593	O
+668	597	O
+668	599	O
+668	602	O
+668	604	O
+668	605	O
+668	606	O
+668	607	O
+668	609	O
+668	611	O
+668	612	O
+668	614	O
+668	615	O
+668	617	O
+668	618	O
+668	621	O
+668	622	O
+668	623	O
+668	624	O
+668	625	O
+668	626	O
+668	628	O
+668	630	O
+668	631	O
+668	633	O
+668	633	O
+668	633	O
+668	637	O
+668	638	O
+668	640	O
+668	641	O
+668	644	O
+668	644	O
+668	645	O
+668	57	O
+668	258	O
+668	647	O
+668	648	O
+668	650	O
+668	651	O
+668	652	O
+668	653	O
+668	654	O
+668	655	O
+668	657	O
+668	658	O
+668	658	O
+668	661	O
+668	662	O
+668	663	O
+668	664	O
+668	665	O
+668	666	O
+668	667	O
+668	667	O
+668	668	O
+668	669	O
+668	670	O
+668	671	O
+668	3	O
+668	161	O
+668	4	O
+668	146	O
+668	504	O
+668	673	O
+668	673	O
+668	674	O
+668	675	O
+668	460	O
+668	127	O
+668	127	O
+668	676	O
+668	185	O
+668	678	O
+668	246	O
+668	679	O
+668	610	O
+668	42	O
+668	680	O
+668	401	O
+668	494	O
+668	681	O
+668	659	O
+668	422	O
+668	682	O
+668	683	O
+668	669	O
+668	686	O
+668	688	O
+668	28	O
+668	690	O
+668	11	O
+668	138	O
+668	692	O
+668	692	O
+668	694	O
+668	695	O
+668	699	O
+668	200	O
+668	544	O
+668	544	O
+668	586	O
+668	58	O
+668	1013	O
+668	702	O
+668	703	O
+668	225	O
+668	225	O
+668	196	O
+668	706	O
+668	706	O
+668	707	O
+668	708	O
+668	710	O
+668	710	O
+668	713	O
+668	716	O
+668	717	O
+668	718	O
+668	718	O
+668	721	O
+668	723	O
+668	724	O
+668	724	O
+668	725	O
+668	725	O
+668	726	O
+668	727	O
+668	730	O
+668	731	O
+668	735	O
+668	738	O
+668	739	O
+668	740	O
+668	741	O
+668	742	O
+668	743	O
+668	744	O
+668	745	O
+668	745	O
+668	747	O
+668	750	O
+668	755	O
+668	756	O
+668	758	O
+668	758	O
+668	759	O
+668	765	O
+668	766	O
+668	767	O
+668	768	O
+668	769	O
+668	772	O
+668	773	O
+668	776	O
+668	779	O
+668	780	O
+668	783	O
+668	785	O
+668	785	O
+668	794	O
+668	801	O
+668	801	O
+668	802	O
+668	805	O
+668	806	O
+668	808	O
+668	809	O
+668	811	O
+668	813	O
+668	814	O
+668	820	O
+668	821	O
+668	821	O
+668	822	O
+668	825	O
+668	826	O
+668	827	O
+668	832	O
+668	834	O
+668	838	O
+668	847	O
+668	849	O
+668	850	O
+668	851	O
+668	854	O
+668	856	O
+668	857	O
+668	857	O
+668	860	O
+668	862	O
+668	863	O
+668	864	O
+668	864	O
+668	866	O
+668	867	O
+668	869	O
+668	871	O
+668	873	O
+668	874	O
+668	875	O
+668	876	O
+668	877	O
+668	878	O
+668	879	O
+668	880	O
+668	881	O
+668	211	O
+668	796	O
+668	796	O
+668	883	O
+668	884	O
+668	884	O
+668	884	O
+668	885	O
+668	887	O
+668	888	O
+668	889	O
+668	890	O
+668	891	O
+668	895	O
+668	896	O
+668	898	O
+668	900	O
+668	901	O
+668	902	O
+668	903	O
+668	904	O
+668	905	O
+668	906	O
+668	908	O
+668	909	O
+668	910	O
+668	913	O
+668	914	O
+668	914	O
+668	155	O
+668	155	O
+668	155	O
+668	920	O
+668	921	O
+668	922	O
+668	923	O
+668	777	O
+668	927	O
+668	928	O
+668	930	O
+668	932	O
+668	933	O
+668	942	O
+668	221	O
+668	944	O
+668	945	O
+668	946	O
+668	946	O
+668	947	O
+668	949	O
+668	949	O
+668	949	O
+668	950	O
+668	950	O
+668	489	O
+668	126	O
+668	954	O
+668	955	O
+668	956	O
+668	957	O
+668	537	O
+668	323	O
+668	92	O
+668	672	O
+668	958	O
+668	543	O
+668	144	O
+668	245	O
+668	245	O
+668	245	O
+668	485	O
+668	792	O
+668	963	O
+668	685	O
+668	964	O
+668	966	O
+668	967	O
+668	968	O
+668	968	O
+668	970	O
+668	973	O
+668	976	O
+668	978	O
+668	979	O
+668	982	O
+668	983	O
+668	985	O
+668	202	O
+668	987	O
+668	988	O
+668	989	O
+668	990	O
+668	993	O
+668	994	O
+668	996	O
+668	998	O
+668	1000	O
+668	1001	O
+668	1003	O
+668	1004	O
+668	1005	O
+668	1006	O
+668	1007	O
+668	1008	O
+668	1008	O
+668	1011	O
+668	1015	O
+668	1018	O
+668	1019	O
+668	1020	O
+668	1022	O
+668	1024	O
+668	1026	O
+668	1028	O
+668	1030	O
+668	1033	O
+668	1036	O
+668	1037	O
+668	1038	O
+668	1041	O
+668	1042	O
+668	1043	O
+668	1044	O
+668	1045	O
+668	1047	O
+668	722	O
+668	722	O
+668	1048	O
+668	1048	O
+668	373	O
+668	13	O
+668	1049	O
+668	44	O
+668	917	O
+668	162	O
+668	1050	O
+668	1051	O
+668	139	O
+668	51	O
+668	51	O
+2	3	O
+2	4	O
+2	5	O
+2	6	O
+2	7	O
+2	9	O
+2	11	O
+2	12	O
+2	13	O
+2	143	O
+2	57	O
+2	57	O
+2	125	O
+2	125	O
+2	728	O
+2	64	O
+2	721	O
+2	126	O
+2	818	O
+2	187	O
+2	972	O
+2	972	O
+2	972	O
+2	74	O
+2	288	O
+2	288	O
+4	75	O
+4	140	O
+4	140	O
+4	669	O
+4	142	O
+4	400	O
+5	353	O
+5	165	O
+5	356	O
+5	356	O
+5	357	O
+5	358	O
+5	360	O
+6	616	O
+6	299	O
+7	8	O
+7	47	O
+7	533	O
+7	886	O
+11	139	O
+11	355	O
+12	41	O
+12	620	O
+12	630	O
+13	525	O
+13	288	O
+13	221	O
+13	975	O
+15	222	O
+15	223	O
+15	223	O
+16	17	O
+16	17	O
+18	19	O
+20	21	O
+20	21	O
+20	21	O
+21	187	O
+21	429	O
+22	23	O
+23	24	O
+26	237	O
+26	507	O
+26	230	O
+27	28	O
+28	507	O
+29	30	O
+30	144	O
+31	32	O
+32	33	O
+32	333	O
+32	468	O
+33	34	O
+35	36	O
+36	37	O
+38	39	O
+38	39	O
+39	953	O
+39	831	O
+40	145	O
+40	753	O
+40	4	O
+41	42	O
+41	135	O
+42	43	O
+42	57	O
+42	340	O
+42	341	O
+42	44	O
+42	345	O
+42	244	O
+42	66	O
+43	44	O
+43	226	O
+44	45	O
+44	835	O
+44	836	O
+45	834	O
+45	836	O
+46	293	O
+47	48	O
+47	75	O
+48	49	O
+49	8	O
+49	8	O
+50	51	O
+51	8	O
+51	401	O
+51	402	O
+51	112	O
+51	669	O
+51	113	O
+52	53	O
+53	54	O
+54	55	O
+55	600	O
+55	146	O
+56	57	O
+57	100	O
+57	746	O
+58	339	O
+60	62	O
+60	63	O
+60	64	O
+60	307	O
+63	126	O
+65	66	O
+66	283	O
+66	183	O
+66	541	O
+66	716	O
+68	374	O
+68	455	O
+68	456	O
+68	758	O
+68	422	O
+70	71	O
+70	422	O
+71	771	O
+71	70	O
+72	630	O
+73	74	O
+74	47	O
+74	75	O
+75	49	O
+75	140	O
+76	139	O
+77	78	O
+78	160	O
+78	585	O
+78	771	O
+78	911	O
+78	829	O
+79	80	O
+79	81	O
+80	81	O
+80	285	O
+81	198	O
+84	43	O
+84	43	O
+87	88	O
+88	641	O
+88	641	O
+88	641	O
+90	441	O
+92	429	O
+94	95	O
+95	96	O
+95	96	O
+100	115	O
+102	103	O
+102	103	O
+105	44	O
+113	114	O
+113	100	O
+113	115	O
+113	117	O
+113	260	O
+113	931	O
+114	116	O
+115	116	O
+115	114	O
+117	187	O
+118	570	O
+121	122	O
+122	389	O
+123	40	O
+124	125	O
+126	127	O
+126	249	O
+126	791	O
+126	792	O
+126	243	O
+126	544	O
+127	1013	O
+127	1013	O
+131	144	O
+131	853	O
+133	134	O
+133	134	O
+134	712	O
+136	137	O
+137	1002	O
+137	1002	O
+137	1002	O
+137	1002	O
+140	389	O
+140	389	O
+669	459	O
+669	459	O
+143	40	O
+143	362	O
+143	1025	O
+143	1025	O
+143	1025	O
+143	1025	O
+143	1025	O
+144	586	O
+144	236	O
+145	146	O
+145	147	O
+146	161	O
+146	601	O
+149	40	O
+149	145	O
+149	695	O
+149	754	O
+149	754	O
+151	152	O
+152	204	O
+152	882	O
+152	273	O
+153	154	O
+154	155	O
+154	155	O
+154	346	O
+154	778	O
+155	566	O
+155	840	O
+155	205	O
+155	986	O
+156	157	O
+160	144	O
+160	320	O
+160	601	O
+160	680	O
+161	684	O
+162	44	O
+163	164	O
+163	177	O
+163	329	O
+165	355	O
+165	355	O
+167	531	O
+170	171	O
+170	172	O
+171	172	O
+172	433	O
+173	53	O
+173	53	O
+174	459	O
+174	459	O
+174	459	O
+174	459	O
+174	459	O
+176	177	O
+176	747	O
+177	329	O
+177	238	O
+178	179	O
+178	179	O
+179	489	O
+179	684	O
+179	684	O
+180	181	O
+180	748	O
+180	459	O
+181	527	O
+181	368	O
+1014	183	O
+183	26	O
+183	541	O
+183	78	O
+183	78	O
+184	185	O
+184	457	O
+184	459	O
+185	476	O
+185	476	O
+185	476	O
+187	134	O
+187	188	O
+187	188	O
+188	1052	O
+189	190	O
+191	192	O
+192	729	O
+192	206	O
+192	924	O
+193	194	O
+193	195	O
+193	195	O
+195	196	O
+196	355	O
+197	198	O
+198	497	O
+198	78	O
+198	997	O
+198	997	O
+199	200	O
+200	544	O
+201	202	O
+201	760	O
+201	212	O
+202	203	O
+202	425	O
+202	425	O
+203	810	O
+203	961	O
+203	126	O
+203	126	O
+203	126	O
+205	192	O
+205	206	O
+205	761	O
+205	761	O
+207	140	O
+208	209	O
+208	80	O
+209	899	O
+211	64	O
+212	610	O
+212	610	O
+212	610	O
+212	610	O
+214	215	O
+214	215	O
+215	60	O
+215	366	O
+215	259	O
+215	259	O
+215	13	O
+215	999	O
+215	999	O
+219	38	O
+220	221	O
+221	161	O
+221	396	O
+221	104	O
+221	829	O
+221	13	O
+221	830	O
+221	400	O
+221	610	O
+221	485	O
+222	297	O
+224	225	O
+224	986	O
+225	226	O
+225	846	O
+225	846	O
+227	228	O
+229	7	O
+230	231	O
+230	231	O
+231	628	O
+231	279	O
+232	233	O
+232	231	O
+232	71	O
+233	234	O
+233	327	O
+233	422	O
+234	372	O
+234	374	O
+234	374	O
+234	374	O
+236	26	O
+236	537	O
+238	239	O
+238	239	O
+238	239	O
+240	241	O
+241	1013	O
+241	198	O
+243	244	O
+243	244	O
+243	951	O
+243	544	O
+244	245	O
+244	336	O
+244	145	O
+244	38	O
+244	792	O
+245	246	O
+245	353	O
+245	489	O
+245	507	O
+246	709	O
+246	709	O
+249	250	O
+249	250	O
+251	252	O
+251	252	O
+251	252	O
+251	252	O
+252	792	O
+254	255	O
+254	44	O
+254	669	O
+254	256	O
+254	42	O
+254	42	O
+254	824	O
+254	3	O
+255	329	O
+257	258	O
+257	113	O
+258	646	O
+259	543	O
+259	544	O
+259	535	O
+259	573	O
+259	573	O
+262	290	O
+265	266	O
+267	118	O
+267	118	O
+267	118	O
+269	519	O
+269	519	O
+269	519	O
+269	519	O
+272	162	O
+272	273	O
+272	64	O
+272	738	O
+272	6	O
+272	42	O
+272	992	O
+272	992	O
+274	275	O
+274	1013	O
+274	1013	O
+275	787	O
+275	787	O
+275	787	O
+276	277	O
+278	279	O
+278	280	O
+278	280	O
+279	276	O
+281	282	O
+281	788	O
+281	716	O
+281	790	O
+281	400	O
+282	66	O
+282	284	O
+283	284	O
+283	151	O
+283	535	O
+284	789	O
+284	789	O
+285	80	O
+285	70	O
+285	70	O
+285	70	O
+285	70	O
+285	70	O
+288	294	O
+288	294	O
+288	421	O
+288	295	O
+288	643	O
+288	293	O
+288	975	O
+288	975	O
+292	708	O
+293	288	O
+294	295	O
+296	198	O
+296	297	O
+297	163	O
+297	312	O
+299	300	O
+299	139	O
+299	793	O
+299	7	O
+301	861	O
+301	861	O
+302	303	O
+302	303	O
+305	306	O
+306	144	O
+306	722	O
+307	97	O
+307	97	O
+307	97	O
+307	97	O
+307	97	O
+307	97	O
+307	97	O
+307	97	O
+312	313	O
+312	314	O
+312	314	O
+312	314	O
+312	797	O
+312	763	O
+312	599	O
+312	96	O
+312	96	O
+313	314	O
+314	187	O
+315	316	O
+315	316	O
+316	332	O
+317	318	O
+317	319	O
+318	319	O
+320	176	O
+320	778	O
+320	155	O
+321	322	O
+321	324	O
+321	337	O
+322	323	O
+323	324	O
+324	26	O
+324	26	O
+324	26	O
+324	26	O
+324	26	O
+324	26	O
+325	326	O
+326	327	O
+329	330	O
+329	32	O
+329	488	O
+329	192	O
+329	192	O
+329	803	O
+329	337	O
+329	450	O
+329	450	O
+329	332	O
+329	767	O
+330	331	O
+331	332	O
+331	316	O
+332	374	O
+333	334	O
+335	244	O
+335	907	O
+335	995	O
+337	338	O
+337	338	O
+337	807	O
+337	807	O
+339	526	O
+340	212	O
+341	868	O
+344	345	O
+344	346	O
+345	43	O
+346	320	O
+346	320	O
+349	281	O
+349	1029	O
+349	1029	O
+349	1029	O
+352	2	O
+352	818	O
+352	361	O
+353	507	O
+355	144	O
+355	143	O
+355	179	O
+355	353	O
+356	144	O
+356	144	O
+356	144	O
+357	143	O
+358	359	O
+359	144	O
+360	144	O
+361	819	O
+361	5	O
+361	1031	O
+361	144	O
+362	104	O
+362	144	O
+363	2	O
+364	365	O
+364	365	O
+368	369	O
+368	370	O
+368	373	O
+368	376	O
+368	374	O
+369	598	O
+370	371	O
+370	422	O
+371	372	O
+371	103	O
+372	370	O
+373	374	O
+373	823	O
+373	859	O
+374	375	O
+374	456	O
+374	757	O
+374	370	O
+374	858	O
+374	858	O
+375	372	O
+375	185	O
+377	378	O
+377	381	O
+378	379	O
+379	380	O
+380	381	O
+381	382	O
+384	751	O
+384	751	O
+384	751	O
+387	4	O
+387	349	O
+387	40	O
+387	186	O
+389	390	O
+389	390	O
+390	179	O
+390	179	O
+392	161	O
+392	161	O
+392	161	O
+392	161	O
+392	161	O
+392	161	O
+395	62	O
+396	39	O
+398	297	O
+399	400	O
+400	140	O
+400	284	O
+401	145	O
+401	245	O
+401	489	O
+402	403	O
+403	306	O
+404	839	O
+404	878	O
+407	155	O
+407	155	O
+408	131	O
+408	131	O
+408	144	O
+411	57	O
+412	217	O
+412	217	O
+412	217	O
+412	217	O
+419	420	O
+419	420	O
+421	842	O
+422	226	O
+422	456	O
+422	21	O
+422	71	O
+422	71	O
+422	71	O
+424	425	O
+425	203	O
+425	203	O
+425	203	O
+425	203	O
+425	203	O
+425	203	O
+428	92	O
+428	599	O
+428	21	O
+429	430	O
+429	430	O
+429	858	O
+430	431	O
+434	435	O
+434	435	O
+436	437	O
+436	708	O
+437	672	O
+438	439	O
+439	440	O
+439	90	O
+440	90	O
+441	439	O
+442	12	O
+443	444	O
+445	446	O
+446	969	O
+446	969	O
+446	969	O
+446	969	O
+446	969	O
+447	448	O
+448	449	O
+449	450	O
+450	453	O
+452	453	O
+452	374	O
+452	454	O
+452	699	O
+452	234	O
+452	669	O
+452	1012	O
+453	332	O
+453	512	O
+454	334	O
+455	453	O
+457	458	O
+457	460	O
+457	185	O
+457	452	O
+457	374	O
+457	475	O
+458	459	O
+458	459	O
+459	748	O
+461	422	O
+461	422	O
+461	422	O
+461	422	O
+461	422	O
+461	422	O
+461	422	O
+461	422	O
+464	274	O
+465	606	O
+465	606	O
+465	606	O
+466	324	O
+466	855	O
+468	429	O
+470	177	O
+473	474	O
+473	215	O
+473	457	O
+473	10	O
+474	475	O
+475	184	O
+475	184	O
+478	669	O
+479	480	O
+479	235	O
+479	686	O
+480	481	O
+482	278	O
+482	44	O
+483	57	O
+483	221	O
+483	617	O
+484	485	O
+484	331	O
+485	786	O
+486	487	O
+487	329	O
+488	489	O
+489	834	O
+489	834	O
+490	446	O
+491	492	O
+493	494	O
+494	495	O
+496	26	O
+497	198	O
+498	499	O
+498	176	O
+499	241	O
+501	220	O
+501	44	O
+501	44	O
+501	44	O
+501	44	O
+505	506	O
+505	784	O
+506	496	O
+506	496	O
+506	496	O
+515	516	O
+515	374	O
+515	649	O
+516	893	O
+517	518	O
+518	519	O
+519	245	O
+519	459	O
+521	522	O
+523	524	O
+524	136	O
+525	639	O
+526	527	O
+526	589	O
+526	705	O
+526	823	O
+526	484	O
+527	83	O
+528	529	O
+529	1010	O
+530	531	O
+530	531	O
+532	600	O
+532	600	O
+532	600	O
+533	8	O
+534	47	O
+535	156	O
+535	543	O
+535	458	O
+535	458	O
+537	26	O
+537	236	O
+537	984	O
+537	984	O
+540	263	O
+540	263	O
+540	263	O
+541	542	O
+541	234	O
+543	544	O
+543	243	O
+544	44	O
+544	245	O
+544	698	O
+544	700	O
+544	264	O
+544	26	O
+544	715	O
+545	89	O
+546	312	O
+549	515	O
+549	117	O
+549	572	O
+551	686	O
+553	303	O
+553	752	O
+553	335	O
+553	335	O
+558	50	O
+558	669	O
+558	53	O
+560	252	O
+560	252	O
+560	115	O
+560	545	O
+560	297	O
+560	544	O
+560	28	O
+560	1027	O
+562	297	O
+563	163	O
+567	568	O
+567	568	O
+568	569	O
+569	118	O
+570	752	O
+571	126	O
+571	340	O
+572	32	O
+573	422	O
+573	422	O
+573	422	O
+573	422	O
+573	422	O
+573	422	O
+580	581	O
+585	144	O
+586	701	O
+586	701	O
+588	722	O
+590	329	O
+591	592	O
+591	26	O
+593	594	O
+594	595	O
+594	144	O
+595	596	O
+597	598	O
+598	375	O
+598	369	O
+598	435	O
+598	435	O
+600	601	O
+600	601	O
+602	603	O
+604	115	O
+604	115	O
+605	478	O
+606	601	O
+606	160	O
+606	146	O
+606	146	O
+606	1040	O
+607	422	O
+609	610	O
+610	400	O
+610	682	O
+611	215	O
+611	13	O
+612	613	O
+613	116	O
+615	616	O
+615	161	O
+615	281	O
+615	552	O
+615	829	O
+615	126	O
+615	80	O
+615	80	O
+618	619	O
+618	492	O
+618	192	O
+618	193	O
+618	193	O
+618	925	O
+618	926	O
+619	12	O
+619	12	O
+620	160	O
+620	160	O
+620	160	O
+621	669	O
+624	139	O
+626	627	O
+630	389	O
+630	396	O
+630	929	O
+631	452	O
+633	634	O
+634	635	O
+635	636	O
+636	144	O
+636	144	O
+636	144	O
+636	144	O
+636	144	O
+636	144	O
+637	228	O
+637	1046	O
+639	288	O
+641	295	O
+643	113	O
+643	113	O
+646	812	O
+646	507	O
+648	649	O
+650	44	O
+651	126	O
+652	57	O
+653	57	O
+653	57	O
+654	39	O
+655	656	O
+657	307	O
+658	659	O
+659	660	O
+659	134	O
+660	134	O
+660	134	O
+662	55	O
+664	220	O
+665	163	O
+666	116	O
+666	116	O
+668	220	O
+668	251	O
+668	243	O
+668	295	O
+669	30	O
+670	245	O
+671	672	O
+672	438	O
+672	246	O
+673	599	O
+673	599	O
+673	599	O
+673	599	O
+673	599	O
+676	677	O
+677	96	O
+678	179	O
+678	179	O
+678	833	O
+680	798	O
+683	355	O
+683	594	O
+684	685	O
+684	519	O
+685	691	O
+686	687	O
+686	841	O
+687	226	O
+687	775	O
+687	237	O
+687	798	O
+688	689	O
+689	736	O
+690	691	O
+691	672	O
+692	693	O
+693	27	O
+695	696	O
+695	622	O
+695	754	O
+696	697	O
+697	544	O
+699	544	O
+700	26	O
+701	526	O
+702	631	O
+703	704	O
+704	339	O
+707	507	O
+708	709	O
+708	437	O
+709	646	O
+709	646	O
+709	646	O
+709	646	O
+712	347	O
+713	714	O
+713	714	O
+713	714	O
+713	714	O
+716	221	O
+716	610	O
+718	719	O
+718	719	O
+718	719	O
+722	505	O
+724	217	O
+724	217	O
+725	299	O
+725	532	O
+725	532	O
+725	532	O
+727	42	O
+728	1023	O
+728	1023	O
+728	1023	O
+728	1023	O
+731	732	O
+732	733	O
+733	734	O
+734	952	O
+734	952	O
+736	235	O
+740	21	O
+741	599	O
+742	501	O
+744	401	O
+745	556	O
+746	653	O
+746	653	O
+747	180	O
+747	180	O
+748	749	O
+748	598	O
+749	185	O
+751	939	O
+751	940	O
+752	248	O
+753	144	O
+754	145	O
+754	244	O
+754	401	O
+755	710	O
+755	710	O
+755	710	O
+755	710	O
+756	422	O
+756	374	O
+757	375	O
+758	422	O
+758	374	O
+758	374	O
+760	201	O
+761	206	O
+762	211	O
+762	211	O
+762	211	O
+762	211	O
+763	798	O
+763	797	O
+765	176	O
+767	454	O
+767	330	O
+770	26	O
+771	66	O
+771	144	O
+771	236	O
+773	226	O
+773	516	O
+776	777	O
+776	777	O
+776	777	O
+778	519	O
+779	572	O
+780	781	O
+781	782	O
+781	782	O
+782	479	O
+783	722	O
+784	184	O
+785	485	O
+785	485	O
+786	353	O
+788	284	O
+790	284	O
+791	792	O
+792	425	O
+792	202	O
+792	202	O
+793	300	O
+801	796	O
+796	610	O
+796	831	O
+796	831	O
+796	831	O
+797	798	O
+797	763	O
+797	680	O
+797	824	O
+797	949	O
+797	949	O
+798	245	O
+801	212	O
+802	297	O
+802	297	O
+803	804	O
+804	489	O
+806	329	O
+807	314	O
+809	202	O
+814	815	O
+815	816	O
+816	817	O
+816	817	O
+819	207	O
+819	144	O
+820	698	O
+821	42	O
+821	42	O
+822	823	O
+822	461	O
+823	822	O
+824	39	O
+824	798	O
+825	485	O
+826	499	O
+827	253	O
+829	161	O
+829	1013	O
+830	831	O
+831	556	O
+833	489	O
+835	836	O
+836	382	O
+838	746	O
+841	687	O
+842	843	O
+844	845	O
+845	225	O
+847	848	O
+847	716	O
+848	844	O
+849	38	O
+851	852	O
+854	466	O
+857	292	O
+857	292	O
+858	859	O
+858	375	O
+859	858	O
+860	861	O
+860	861	O
+863	561	O
+864	819	O
+865	735	O
+867	341	O
+868	374	O
+868	341	O
+871	872	O
+873	221	O
+874	329	O
+879	251	O
+881	160	O
+881	162	O
+881	162	O
+881	162	O
+881	162	O
+886	504	O
+890	317	O
+891	209	O
+893	894	O
+893	894	O
+893	894	O
+901	163	O
+901	42	O
+901	42	O
+903	206	O
+903	206	O
+905	209	O
+906	553	O
+907	246	O
+908	5	O
+909	183	O
+909	183	O
+909	183	O
+909	183	O
+911	912	O
+912	636	O
+912	636	O
+914	915	O
+915	916	O
+915	916	O
+917	918	O
+917	919	O
+918	919	O
+918	796	O
+919	831	O
+919	39	O
+919	39	O
+919	39	O
+919	39	O
+923	791	O
+923	959	O
+923	960	O
+926	769	O
+927	188	O
+930	710	O
+931	116	O
+932	202	O
+933	324	O
+935	936	O
+935	941	O
+936	937	O
+937	938	O
+938	751	O
+939	940	O
+940	301	O
+941	936	O
+942	301	O
+942	301	O
+942	301	O
+942	301	O
+942	301	O
+947	948	O
+949	687	O
+950	592	O
+951	734	O
+952	39	O
+952	39	O
+954	610	O
+955	610	O
+956	610	O
+957	610	O
+958	485	O
+959	792	O
+960	792	O
+961	962	O
+961	962	O
+963	709	O
+964	965	O
+965	928	O
+965	928	O
+970	971	O
+970	971	O
+972	2	O
+973	974	O
+973	384	O
+974	751	O
+976	183	O
+976	183	O
+979	803	O
+981	252	O
+983	51	O
+984	236	O
+989	778	O
+990	991	O
+992	187	O
+992	276	O
+993	508	O
+995	246	O
+996	198	O
+996	198	O
+999	975	O
+1001	221	O
+1003	992	O
+1004	139	O
+1004	139	O
+1004	139	O
+1004	139	O
+1010	528	O
+1010	528	O
+1012	1013	O
+1013	1014	O
+1014	485	O
+1015	32	O
+1017	459	O
+1018	207	O
+1019	390	O
+1020	1021	O
+1021	884	O
+1022	226	O
+1023	725	O
+1025	579	O
+1027	653	O
+1028	207	O
+1029	4	O
+1029	207	O
+1031	819	O
+1031	361	O
+1032	1031	O
+1033	532	O
+1036	217	O
+1036	217	O
+1037	301	O
+1040	601	O
+1042	740	O
+1043	212	O
+1047	649	O
+1049	519	O
+1051	544	O
