@@ -76,7 +76,7 @@
 76	headlight_aiming_control	0.719389421685782
 77	air_conditioning_system	0.5949130697400092
 78	event_data_recorder	0.45108962668226743
-79	malfunction_diagnosis_connector	0.75611385641775279
+79	malfunction_diagnosis_connector	-0.75611385641775279
 
 1	2	M	0.9524111001328558	M
 1	3	M	0.9017447539972834	M
